@@ -1,0 +1,1390 @@
+symbol,returnOnEquity,returnOnInvestment,beta,Cluster,Sector,Industry
+ACTG,13.49569,14.68407,0.86395,2,Miscellaneous,Multi-Sector Companies
+ACCO,10.14677,3.38702,2.28566,0,Consumer Durables,Publishing
+AB,18.06116,18.03733,1.52962,1,Finance,Investment Managers
+AC,6.80088,2.43643,1.32777,0,Finance,Investment Bankers/Brokers/Service
+AAP,13.21577,6.82951,1.27672,2,Consumer Services,Other Specialty Stores
+ACLS,10.36718,9.1067,1.41803,0,Technology,Industrial Machinery/Components
+A,14.94647,9.25831,1.05468,2,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+ABB,3.20988,1.96247,1.09618,2,Consumer Durables,Electrical Products
+ABG,29.59133,10.71474,1.71632,1,Consumer Durables,Automotive Aftermarket
+ABT,10.61342,5.76175,0.82949,2,Health Care,Major Pharmaceuticals
+ABMD,19.11949,18.59751,1.35767,1,Health Care,Medical/Dental Instruments
+ACM,4.88182,2.54774,1.63648,0,Consumer Services,Military/Government/Technical
+ACN,32.52412,24.55942,1.08359,1,Miscellaneous,Business Services
+ACHC,3.98963,1.62419,1.4769,0,Health Care,Medical Specialities
+ADI,10.29868,6.10569,1.32171,0,Technology,Semiconductors
+ADM,8.56133,5.40228,0.8528,2,Consumer Non-Durables,Packaged Foods
+ACOR,16.51243,7.22468,0.69122,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ACIA,11.32422,10.77628,0.76295,2,Technology,Semiconductors
+ADBE,35.20547,26.17028,0.96798,1,Technology,Computer Software: Prepackaged Software
+ADCT,19.64877,6.87451,2.08378,0,Health Care,Major Pharmaceuticals
+ACIW,5.59176,2.36979,1.25311,0,Technology,Computer Software: Prepackaged Software
+AAON,24.38527,22.5035,0.68644,1,Capital Goods,Industrial Machinery/Components
+AGCO,6.2769,2.63559,1.2221,0,Capital Goods,Industrial Machinery/Components
+ADUS,7.09379,6.05918,0.59695,2,Health Care,Medical/Nursing Services
+AEIS,14.53012,8.15666,1.82365,0,Capital Goods,Industrial Machinery/Components
+ADP,44.40445,26.70249,0.71948,1,Technology,EDP Services
+ADS,21.34421,2.34782,2.58205,0,Miscellaneous,Business Services
+ADV,14.49975,1.32874,1.19679,2,Miscellaneous,Business Services
+AEE,10.27128,3.1477,0.21313,2,Public Utilities,Power Generation
+AEM,12.43144,7.8686,0.63749,2,Basic Industries,Precious Metals
+AEP,9.53676,2.72525,0.21263,2,Public Utilities,Electric Utilities: Central
+AGM,16.31017,0.87804,1.07227,2,Finance,Finance Companies
+AGR,4.2011,1.97201,0.226,2,Public Utilities,Electric Utilities: Central
+AHH,7.62076,2.75977,0.78739,2,Finance,Real Estate
+AJRD,19.73973,6.88093,0.42816,2,Capital Goods,Military/Government/Technical
+AIN,14.24934,7.88004,1.39747,0,Basic Industries,Textiles
+AL,9.69871,2.69893,2.16016,0,Technology,Diversified Commercial Services
+AIT,2.09938,1.00507,1.48181,0,Consumer Durables,Industrial Specialties
+AJG,13.98022,7.1182,0.70804,2,Finance,Specialty Insurers
+ALB,9.5842,4.59625,1.5749,0,Basic Industries,Major Chemicals
+ALE,7.87738,3.4385,0.39424,2,Public Utilities,Power Generation
+ALG,10.05271,6.63444,0.98179,2,Capital Goods,Industrial Machinery/Components
+ALRM,19.3374,14.08362,1.09504,1,Technology,Computer Software: Prepackaged Software
+AKAM,14.79217,8.98913,0.49256,2,Miscellaneous,Business Services
+ALCO,12.16788,5.62999,0.70706,2,Consumer Non-Durables,Farming/Seeds/Milling
+ALLE,39.9788,12.29879,1.12986,1,Consumer Services,Diversified Commercial Services
+AMSWA,5.53523,5.3318,0.50342,2,Technology,Computer Software: Prepackaged Software
+AMOV,17.02142,3.5194,0.76132,2,Public Utilities,Telecommunications Equipment
+AMOV,17.02142,3.5194,0.76132,2,Public Utilities,Telecommunications Equipment
+AMOT,11.6307,5.23208,1.71508,0,Capital Goods,Electrical Products
+AN,12.21163,6.98124,1.56612,0,Consumer Durables,Automotive Aftermarket
+AMPH,1.67372,1.65086,0.84624,2,Health Care,Major Pharmaceuticals
+AMAT,38.51639,22.29066,1.48316,1,Technology,Semiconductors
+AMRC,12.17974,5.11641,0.54632,2,Basic Industries,Engineering & Construction
+AMRX,23.87788,0.33758,1.2329,2,Health Care,Major Pharmaceuticals
+AMZN,24.95208,11.31595,1.20121,1,Consumer Services,Catalog/Specialty Distribution
+ALXN,8.92263,6.38986,1.25432,2,Health Care,Major Pharmaceuticals
+ANET,24.81522,20.93057,1.18963,1,Technology,Computer Communications Equipment
+ALV,7.53701,3.50141,1.92038,0,Capital Goods,Auto Parts:O.E.M.
+AMKR,15.31515,8.80095,1.66286,0,Technology,Semiconductors
+AMD,28.66126,21.61351,2.267,1,Technology,Semiconductors
+AME,16.5029,10.1778,1.3697,0,Capital Goods,Industrial Machinery/Components
+AMG,3.67974,5.61839,1.43044,0,Finance,Investment Managers
+AMN,11.74982,5.11177,0.50077,2,Technology,Professional Services
+AMP,30.17241,1.33112,1.74516,0,Finance,Investment Managers
+AMX,17.02142,3.5194,0.76132,2,Public Utilities,Telecommunications Equipment
+AMCX,19.87182,3.66655,1.34299,0,Consumer Services,Television Services
+AMEH,16.47977,22.75408,0.60302,1,Consumer Services,Professional Services
+ANGI,0.62175,0.48179,1.90075,0,Consumer Services,Advertising
+AMED,24.45037,16.26518,0.74577,1,Health Care,Medical/Nursing Services
+ALSN,46.47414,8.58774,1.24189,1,Capital Goods,Auto Parts:O.E.M.
+ALSK,5.7014,1.92415,1.48468,0,Public Utilities,Telecommunications Equipment
+AMWD,9.09202,4.44158,2.2691,0,Basic Industries,Forest Products
+APEI,5.83479,5.58376,0.84941,2,Consumer Services,Other Consumer Services
+AP,13.39419,2.81464,1.1175,2,Capital Goods,Fluid Controls
+ARC,3.97957,1.98464,1.66444,0,Consumer Services,Professional Services
+ARAY,25.06134,4.65874,2.09974,0,Health Care,Medical/Dental Instruments
+ARL,3.76285,1.19658,1.12603,2,Finance,Real Estate
+ARCB,5.31468,3.39392,1.83204,0,Transportation,Trucking Freight/Courier Services
+ANSS,11.7952,10.39162,1.22284,2,Technology,Computer Software: Prepackaged Software
+APOG,9.27395,6.53657,1.19775,2,Capital Goods,Auto Parts:O.E.M.
+APPS,38.44177,32.78905,2.41591,1,Miscellaneous,Multi-Sector Companies
+ARES,12.32154,1.65947,1.21671,0,Finance,Investment Managers
+AON,51.69178,13.48615,0.83515,1,Finance,Specialty Insurers
+AOS,18.58196,14.04491,1.07194,1,Consumer Durables,Consumer Electronics/Appliances
+APTV,31.40556,16.58768,2.24756,1,Capital Goods,Auto Parts:O.E.M.
+APD,16.43511,9.93167,0.79976,2,Basic Industries,Major Chemicals
+APH,25.34066,13.05961,1.27268,1,Capital Goods,Electrical Products
+ATEN,8.95702,6.06825,0.94222,2,Technology,Computer Communications Equipment
+ATUS,6.95609,0.34018,1.09707,2,Consumer Services,Television Services
+AU,21.94444,10.47479,0.42057,2,Basic Industries,Precious Metals
+ATVI,16.63598,12.49295,0.67153,2,Technology,Computer Software: Prepackaged Software
+ASTE,2.12813,2.01739,1.34847,0,Capital Goods,Construction/Ag Equipment/Trucks
+ARW,9.67242,5.81862,1.55066,0,Technology,Electronic Components
+ASML,25.85614,17.54763,1.05253,1,Technology,Industrial Machinery/Components
+ATGE,19.11101,12.8008,1.30838,1,Consumer Services,Other Consumer Services
+ASC,4.65068,2.17541,1.1617,2,Transportation,Marine Transportation
+ASR,8.45544,5.77163,1.28948,0,Transportation,Aerospace
+ATHM,22.46252,21.6693,0.77341,1,Technology,EDP Services
+ATO,9.58422,4.49933,0.29692,2,Public Utilities,Oil/Gas Transmission
+ATR,12.63668,7.10951,0.61772,2,Consumer Non-Durables,Plastic Products
+ATV,16.15881,16.02685,0.20092,2,Consumer Services,Other Specialty Stores
+ASGN,12.90051,6.95042,2.21796,0,Technology,Professional Services
+ARTNA,10.41155,3.22341,0.00564,2,Public Utilities,Water Supply
+ATRS,11.23977,5.95657,1.40506,0,Health Care,Medical/Dental Instruments
+AUDC,7.22664,5.21019,0.583,2,Public Utilities,Telecommunications Equipment
+ATAX,3.97765,1.56831,0.58632,2,Finance,Finance: Consumer Services
+ATRI,13.94235,13.23131,0.13872,2,Health Care,Medical/Dental Instruments
+ATCO,6.44975,3.6677,1.09466,2,Transportation,Marine Transportation
+ATKR,48.72723,12.52578,2.47583,1,Miscellaneous,Industrial Machinery/Components
+ASIX,4.10827,1.80576,1.83196,0,Basic Industries,Major Chemicals
+AYI,12.27264,9.11126,1.50646,0,Consumer Durables,Building Products
+AVAV,6.85197,7.76275,0.54823,2,Capital Goods,Aerospace
+AZN,20.50166,5.59441,0.58871,2,Health Care,Major Pharmaceuticals
+AY,4.26371,0.74158,0.66787,2,Public Utilities,Electric Utilities: Central
+AZZ,2.39198,1.75065,1.55456,0,Consumer Durables,Building Products
+B,6.87997,3.72301,1.27451,0,Capital Goods,Metal Fabrications
+AVDL,8.93422,3.00547,1.60587,0,Health Care,Major Pharmaceuticals
+AVNW,8.41703,6.79424,2.14369,0,Technology,Radio And Television Broadcasting And Communications Equipment
+BABA,18.05654,12.21072,1.03451,2,Miscellaneous,Business Services
+AVNS,1.0873,0.86623,1.09059,2,Health Care,Industrial Specialties
+AUY,2.72571,1.71391,1.44011,0,Basic Industries,Precious Metals
+AVNT,5.87644,2.10028,1.67519,0,Basic Industries,Major Chemicals
+AVA,6.27017,2.13698,0.51929,2,Public Utilities,Power Generation
+AVD,3.15475,2.05199,1.04122,2,Basic Industries,Agricultural Chemicals
+AVGO,9.90679,3.70522,1.02805,2,Technology,Semiconductors
+AVY,44.05518,15.20443,0.96708,1,Consumer Durables,Containers/Packaging
+AWK,10.42356,3.0874,0.18431,2,Public Utilities,Water Supply
+AZPN,50.89245,28.30217,1.42145,1,Technology,EDP Services
+BAH,56.7891,14.25934,0.80727,1,Consumer Services,Professional Services
+AXP,14.62111,3.44072,1.36246,0,Finance,Finance: Consumer Services
+AXTA,7.13034,1.62916,1.49606,0,Basic Industries,Paints/Coatings
+BDSI,18.09534,9.8259,0.76006,2,Health Care,Major Pharmaceuticals
+BEDU,5.8983,2.82736,0.98967,2,Consumer Services,Other Consumer Services
+BBL,16.7185,10.30268,1.13663,2,Energy,Coal Mining
+BBQ,21.96494,5.46804,1.86017,0,Consumer Services,Restaurants
+BBY,47.89904,22.34586,1.57225,1,Consumer Services,Consumer Electronics/Video Chains
+BCC,21.67646,12.01084,2.16617,0,Consumer Services,RETAIL: Building Materials
+BCE,13.46885,4.82423,0.44157,2,Public Utilities,Telecommunications Equipment
+BELFA,1.65536,0.80778,2.02476,0,Capital Goods,Electrical Products
+BELFB,1.65536,0.80778,2.02476,0,Capital Goods,Electrical Products
+BDC,3.13304,1.12362,1.60358,0,Basic Industries,Telecommunications Equipment
+BC,24.59324,12.88149,1.96367,1,Energy,Industrial Machinery/Components
+BG,11.70453,4.68017,0.72638,2,Consumer Non-Durables,Packaged Foods
+BDX,3.4209,1.85393,0.7793,2,Health Care,Medical/Dental Instruments
+BEN,7.82279,5.88651,1.25902,0,Finance,Investment Managers
+BGCP,6.27587,3.03867,1.85905,0,Finance,Investment Bankers/Brokers/Service
+BFAM,6.79617,2.44335,0.83101,2,Miscellaneous,Other Consumer Services
+BBSI,21.44326,7.82457,1.46514,0,Technology,Professional Services
+BEAT,4.66929,2.75353,1.3181,0,Health Care,Medical Specialities
+BEAM,7.54908,4.77669,0.82883,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BCEI,4.16945,3.68537,2.12515,0,Energy,Oil & Gas Production
+BGFV,17.91118,7.56145,2.58988,0,Consumer Services,Other Specialty Stores
+BERY,30.13477,3.8621,1.35713,0,Consumer Non-Durables,Plastic Products
+BCPC,10.6687,7.82458,0.54967,2,Basic Industries,Major Chemicals
+BAX,9.07459,4.74121,0.6361,2,Health Care,Medical/Dental Instruments
+BIDU,14.06741,8.2036,1.07507,2,Technology,"Computer Software: Programming, Data Processing"
+BKD,4.26089,0.55188,1.89143,0,Health Care,Hospital/Nursing Management
+BKE,25.94081,15.772,1.19745,1,Consumer Services,Clothing/Shoe/Accessory Stores
+BKH,9.05851,3.4341,0.24901,2,Public Utilities,Electric Utilities: Central
+BLD,18.16633,10.0924,1.60202,0,Basic Industries,Engineering & Construction
+BLKB,5.50522,2.19649,1.1728,2,Technology,Computer Software: Prepackaged Software
+BLK,14.13699,3.06357,1.19128,2,Finance,Investment Bankers/Brokers/Service
+BLL,16.57335,3.86591,0.46226,2,Consumer Durables,Containers/Packaging
+BIOC,6.18466,5.39543,1.28419,0,Health Care,Medical Specialities
+BGSF,3.00428,1.94869,2.45947,0,Technology,Professional Services
+BLDR,24.06336,8.01592,2.68373,0,Consumer Services,RETAIL: Building Materials
+BMI,14.37331,12.98988,0.74699,2,Capital Goods,Industrial Machinery/Components
+BGS,15.51763,4.17637,0.55125,2,Consumer Non-Durables,Packaged Foods
+BIIB,41.0626,23.38507,0.51305,1,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BHP,16.7185,10.30268,1.02574,2,Basic Industries,Precious Metals
+BKNG,25.79161,8.21821,1.21061,1,Consumer Services,Transportation Services
+BMCH,12.69315,8.37816,1.82936,0,Consumer Services,RETAIL: Building Materials
+BRFS,16.38373,3.7831,1.85163,0,Consumer Non-Durables,Meat/Poultry/Fish
+BR,36.94666,13.15518,0.83956,1,Miscellaneous,Business Services
+BRID,9.38761,5.98299,0.05503,2,Consumer Non-Durables,Specialty Foods
+BPMC,36.29146,31.85864,0.88585,1,Health Care,Major Pharmaceuticals
+BRKS,5.52885,5.01864,2.01293,0,Technology,Industrial Machinery/Components
+BRKR,17.52629,8.224,1.26431,2,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+BNSO,2.66105,2.18723,0.70249,2,Capital Goods,Industrial Machinery/Components
+BMRN,23.90543,18.19054,0.66275,1,Health Care,Major Pharmaceuticals
+BOOT,11.64401,6.00883,3.02257,0,Consumer Services,Clothing/Shoe/Accessory Stores
+BRC,12.24177,11.17891,0.77153,2,Consumer Durables,Miscellaneous manufacturing industries
+BRO,12.67181,7.60639,0.66257,2,Finance,Specialty Insurers
+BWXT,60.65846,16.99061,0.94061,1,Energy,Industrial Machinery/Components
+BSM,13.79453,9.35375,1.60037,0,Energy,Oil & Gas Production
+BTI,9.31821,4.89375,0.85666,2,Consumer Non-Durables,Farming/Seeds/Milling
+BX,12.09281,9.54509,1.32864,2,Finance,Investment Managers
+BWA,7.85761,5.20982,1.75334,0,Capital Goods,Auto Parts:O.E.M.
+BSTC,13.75659,13.70191,0.23629,2,Health Care,Major Pharmaceuticals
+BZH,9.42041,3.04944,2.31761,0,Capital Goods,Homebuilding
+CCEP,11.63804,4.75455,0.76387,2,Consumer Non-Durables,Beverages (Production/Distribution)
+CACC,17.76054,5.90072,1.16413,2,Finance,Finance: Consumer Services
+CASS,10.09259,8.21705,0.84976,2,Miscellaneous,Business Services
+CABO,23.32076,8.3154,0.51845,2,Consumer Services,Television Services
+CATM,6.72285,1.74186,1.81341,0,Miscellaneous,Business Services
+CACI,13.36016,7.04059,1.10374,2,Technology,EDP Services
+CASY,18.43095,8.74856,0.87382,2,Consumer Durables,Automotive Aftermarket
+CALX,5.01878,4.06897,1.45446,0,Consumer Services,Telecommunications Equipment
+CBPO,7.8638,9.15041,0.42723,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CAMT,13.14915,12.94161,1.65731,0,Capital Goods,Electronic Components
+CAE,2.66043,1.18192,1.71278,0,Miscellaneous,Industrial Machinery/Components
+CAG,12.79183,4.76558,0.84152,2,Consumer Non-Durables,Packaged Foods
+CAI,5.14775,1.57013,1.7956,0,Technology,Diversified Commercial Services
+CAJ,2.44271,2.16181,0.42381,2,Miscellaneous,Industrial Machinery/Components
+CAT,22.17986,6.44878,0.97421,2,Capital Goods,Construction/Ag Equipment/Trucks
+CBD,4.63446,2.11764,1.05981,2,Consumer Services,Food Chains
+CBRE,17.83421,11.29339,1.58834,0,Finance,Real Estate
+CBZ,11.24951,6.98279,0.58216,2,Miscellaneous,Business Services
+CCK,29.19501,5.33648,1.13773,2,Consumer Durables,Containers/Packaging
+BZUN,8.1253,5.14598,1.24583,0,Consumer Services,Catalog/Specialty Distribution
+CERN,17.9849,13.00384,0.74572,2,Technology,EDP Services
+CCMP,13.90263,6.66575,1.18592,2,Technology,Semiconductors
+CEO,9.43791,6.4605,1.12679,2,Energy,Oil & Gas Production
+CELH,6.99512,6.9892,2.02252,0,Consumer Non-Durables,Beverages (Production/Distribution)
+CENTA,11.64371,6.66858,0.66973,2,Consumer Durables,Consumer Specialties
+CFX,1.66394,0.7991,2.18453,0,Capital Goods,Fluid Controls
+CECE,7.70708,4.96434,1.32653,0,Capital Goods,Pollution Control Equipment
+CE,22.30257,8.20839,1.22601,2,Basic Industries,Major Chemicals
+CF,9.81743,4.63633,1.28983,0,Basic Industries,Agricultural Chemicals
+CCRC,22.23106,21.33012,0.49017,1,Miscellaneous,Business Services
+CEVA,0.01897,0.01765,1.16289,0,Technology,Semiconductors
+CENT,11.64371,6.66858,0.66973,2,Consumer Durables,Consumer Specialties
+CCS,15.70106,7.95863,1.97141,0,Capital Goods,Homebuilding
+CCU,7.46782,6.00626,0.94995,2,Consumer Non-Durables,Beverages (Production/Distribution)
+CGNX,13.63678,11.58808,1.64387,0,Capital Goods,Industrial Machinery/Components
+CLAR,5.96686,5.04241,0.86395,2,Consumer Non-Durables,Recreational Products/Toys
+CHRW,25.81282,14.04853,0.67032,1,Transportation,Oil Refining/Marketing
+CHD,27.04174,13.48126,0.3655,1,Basic Industries,Package Goods/Cosmetics
+CHE,36.81588,26.87576,0.53972,1,Health Care,Medical/Nursing Services
+CHL,9.6389,9.1727,0.48415,2,Public Utilities,Telecommunications Equipment
+CHT,8.9686,8.46661,0.03445,2,Public Utilities,Telecommunications Equipment
+CIEN,16.55938,11.91831,0.85861,2,Public Utilities,Telecommunications Equipment
+CHKP,24.45948,19.82744,0.65033,1,Technology,Computer Software: Prepackaged Software
+CIG,11.7623,4.69265,0.70648,2,Public Utilities,Electric Utilities: Central
+CHSCL,6.55354,3.86487,0.38913,2,Consumer Services,Farming/Seeds/Milling
+CHSCO,6.55354,3.86487,0.38913,2,Consumer Services,Farming/Seeds/Milling
+CHSCP,6.55354,3.86487,0.38913,2,Consumer Services,Farming/Seeds/Milling
+CHSCM,6.55354,3.86487,0.38913,2,Consumer Services,Farming/Seeds/Milling
+CHSCN,6.55354,3.86487,0.38913,2,Consumer Services,Farming/Seeds/Milling
+CHDN,2.14611,0.37017,1.3654,0,Consumer Services,Services-Misc. Amusement & Recreation
+CINR,10.16534,12.23069,1.01144,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+CHTR,8.98464,2.4495,1.01129,2,Consumer Services,Television Services
+CIGI,12.93306,6.98642,1.62766,0,Finance,Real Estate
+CLGX,20.22923,5.80376,1.11692,2,Technology,EDP Services
+CLS,2.42262,1.82965,2.47565,0,Technology,Electrical Products
+CLW,12.256,3.55835,1.48187,0,Basic Industries,Paper
+CMC,15.84384,8.69661,1.23514,2,Basic Industries,Steel/Iron Ore
+CME,8.0007,5.76792,0.46783,2,Finance,Investment Bankers/Brokers/Service
+CMD,0.40887,0.20233,1.46902,0,Health Care,Medical/Dental Instruments
+CMG,13.84018,5.19438,1.34461,0,Consumer Services,Restaurants
+CMI,20.47711,11.58864,1.12864,2,Energy,Industrial Machinery/Components
+CMP,20.59724,4.2171,1.57234,0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+CMS,14.25319,2.93394,0.10243,2,Public Utilities,Power Generation
+CNC,10.66884,5.9915,0.52708,2,Health Care,Medical Specialities
+CNI,17.31151,7.9878,0.85504,2,Transportation,Railroads
+CMCO,3.69177,1.89529,1.52831,0,Capital Goods,Construction/Ag Equipment/Trucks
+CNMD,0.04494,0.01967,1.53135,0,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+CNMD,0.04494,0.01967,1.53135,0,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+CMTL,1.29475,0.92839,1.95193,0,Technology,Radio And Television Broadcasting And Communications Equipment
+CLCT,50.96023,35.63338,1.68845,1,Miscellaneous,Business Services
+CMCSA,12.55599,4.50277,1.01709,2,Consumer Services,Television Services
+CLFD,9.25008,9.107,0.95298,2,Public Utilities,Telecommunications Equipment
+CLH,9.41984,3.5157,1.71855,0,Basic Industries,Environmental Services
+CLNE,6.7238,5.41881,1.9159,0,Public Utilities,Natural Gas Distribution
+CNSL,10.00023,1.21784,1.40063,0,Public Utilities,Telecommunications Equipment
+CPHC,2.95777,2.67402,0.51105,2,Consumer Services,Services-Misc. Amusement & Recreation
+CRESY,50.84619,7.92515,1.08139,1,Finance,Real Estate
+CREG,2.86914,2.60397,1.68131,0,Miscellaneous,Business Services
+CPAC,2.67421,1.44601,0.55324,2,Capital Goods,Building Materials
+COOP,27.86167,3.58329,1.51365,0,Finance,Finance: Consumer Services
+COG,9.98429,5.28679,0.18304,2,Energy,Oil & Gas Production
+COWN,14.19103,9.65007,1.52613,0,Finance,Investment Bankers/Brokers/Service
+COO,7.38662,4.99693,0.82415,2,Health Care,Ophthalmic Goods
+CO,12.95578,7.71946,0.40643,2,Finance,Business Services
+CP,46.18294,15.82998,0.90164,1,Transportation,Railroads
+CR,1.34831,0.62139,1.63906,0,Capital Goods,Metal Fabrications
+CPRT,29.41335,23.25197,1.02891,1,Consumer Durables,Automotive Aftermarket
+CPB,32.29678,6.21685,0.51224,1,Consumer Non-Durables,Packaged Foods
+CPK,11.38831,4.73029,0.24387,2,Public Utilities,Oil & Gas Production
+CORE,9.98182,4.52774,0.40738,2,Consumer Non-Durables,Food Distributors
+CPSS,10.59353,0.74017,2.52339,0,Finance,Finance: Consumer Services
+CPSI,11.72568,7.51928,0.67637,2,Technology,EDP Services
+CPSH,25.73868,25.23856,1.63235,1,Capital Goods,Building Materials
+CORT,26.55111,26.49815,1.029,1,Health Care,Major Pharmaceuticals
+CRH,8.20004,4.07041,1.07135,2,Capital Goods,Building Materials
+CNXN,10.14263,9.6131,0.75055,2,Consumer Services,Catalog/Specialty Distribution
+CRAI,11.34426,6.57522,1.42738,0,Miscellaneous,Other Consumer Services
+COST,23.8733,15.57769,0.67455,1,Consumer Services,Department/Specialty Retail Stores
+COKE,23.2007,4.2677,1.03125,2,Consumer Non-Durables,Beverages (Production/Distribution)
+COLM,7.48616,5.97756,0.70261,2,Consumer Non-Durables,Apparel
+COLL,13.69403,6.98272,1.14635,2,Health Care,Major Pharmaceuticals
+CODA,7.51832,7.34099,1.53948,0,Capital Goods,Industrial Machinery/Components
+CTS,7.36566,5.37817,0.78384,2,Technology,Electrical Products
+CRTX,5.99893,3.26052,0.75024,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CRTO,6.80228,6.07243,1.03902,2,Technology,Advertising
+CSGS,17.17934,7.71059,0.93831,2,Technology,EDP Services
+CSGP,6.48158,5.54673,0.9778,2,Miscellaneous,Business Services
+CTAA,16.74061,9.60462,0.48541,2,Public Utilities,Telecommunications Equipment
+CRUS,12.53198,10.73694,0.91843,2,Technology,Semiconductors
+CSWI,16.6422,14.95375,0.84489,1,Basic Industries,Home Furnishings
+CTRN,4.16865,2.23613,1.53474,0,Consumer Services,Clothing/Shoe/Accessory Stores
+CRVL,20.46843,14.07601,0.79953,1,Finance,Specialty Insurers
+CTAS,27.57718,13.72303,1.48839,1,Consumer Non-Durables,Apparel
+CSIQ,14.69533,8.15388,1.45008,0,Technology,Semiconductors
+CRWS,16.78111,15.43303,1.02736,1,Basic Industries,Textiles
+CTSH,13.46946,10.76154,1.13079,2,Technology,EDP Services
+CTLT,10.55619,4.82169,1.52067,0,Health Care,Major Pharmaceuticals
+CRI,16.46577,5.50432,1.20322,2,Consumer Non-Durables,Apparel
+CRL,17.58173,7.29781,1.09965,2,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+CRM,1.34158,1.09774,1.20709,0,Technology,Computer Software: Prepackaged Software
+CSCO,28.82888,15.39582,0.93745,1,Technology,Computer Communications Equipment
+CSL,13.28472,6.8678,0.94358,2,Basic Industries,Specialty Chemicals
+CSV,4.48934,1.03693,0.8207,2,Consumer Services,Other Consumer Services
+CSX,22.59023,7.59404,1.20272,2,Transportation,Railroads
+CTB,12.35417,7.80558,1.54967,0,Consumer Durables,Automotive Aftermarket
+CTG,10.43457,6.98918,0.83634,2,Technology,EDP Services
+CSTE,1.89609,1.55745,0.82569,2,Capital Goods,Building Materials
+CVCO,10.64883,10.10959,1.23275,2,Basic Industries,Homebuilding
+CYBE,7.34224,6.92967,1.31281,0,Capital Goods,Electronic Components
+CYAN,3.6961,2.30874,0.40031,2,Consumer Durables,Specialty Chemicals
+CVS,12.10765,4.71345,0.79441,2,Health Care,Medical/Nursing Services
+D,6.28207,1.74314,0.31578,2,Public Utilities,Electric Utilities: Central
+CYBR,0.47217,0.30227,1.27944,0,Technology,Computer Software: Prepackaged Software
+DAC,16.09719,5.8924,1.57009,0,Transportation,Marine Transportation
+CW,13.5295,7.7285,1.5314,0,Technology,Industrial Machinery/Components
+DAR,19.46646,11.08228,1.30862,2,Consumer Non-Durables,Packaged Foods
+DCI,27.41144,14.82657,1.3623,1,Capital Goods,Pollution Control Equipment
+DCO,9.41357,4.46432,1.57338,0,Capital Goods,Military/Government/Technical
+DAKT,0.49047,0.39987,0.67411,2,Consumer Durables,Miscellaneous manufacturing industries
+CZZ,31.00378,5.78017,1.36995,1,Consumer Non-Durables,Specialty Foods
+CWST,28.79068,4.47366,0.96879,2,Public Utilities,Environmental Services
+CXDO,10.15428,8.59949,2.19945,0,Public Utilities,Telecommunications Equipment
+CWCO,5.81281,6.29859,0.29613,2,Public Utilities,Water Supply
+DLTR,14.70831,5.98092,0.77445,2,Consumer Services,Department/Specialty Retail Stores
+DGX,18.34236,10.34819,1.06848,2,Health Care,Medical Specialities
+DFIN,6.21552,2.26617,2.12132,0,Consumer Services,Other Consumer Services
+DIOD,10.36992,7.98548,1.16817,2,Technology,Semiconductors
+DHI,21.7164,17.15612,1.72423,1,Capital Goods,Homebuilding
+DHR,9.11702,5.09131,0.7437,2,Capital Goods,Industrial Machinery/Components
+DE,22.59548,5.61143,0.98191,2,Capital Goods,Industrial Machinery/Components
+DG,33.16548,12.29727,0.51017,1,Consumer Services,Department/Specialty Retail Stores
+DHIL,17.5691,15.12289,1.00865,1,Finance,Investment Managers
+DL,30.15307,9.16958,0.8727,1,Consumer Services,Other Consumer Services
+DLHC,15.32212,6.56896,1.03477,2,Technology,Professional Services
+DISCA,10.93599,5.46456,1.54695,0,Consumer Services,Television Services
+DISCB,10.93599,5.46456,1.54695,0,Consumer Services,Television Services
+DKS,19.86435,7.4944,1.66681,0,Consumer Services,Other Specialty Stores
+DECK,29.04753,22.62417,0.73544,1,Consumer Non-Durables,Shoe Manufacturing
+DISCK,10.93599,5.46456,1.54695,0,Consumer Services,Television Services
+DISH,12.41804,5.48855,2.04271,0,Consumer Services,Television Services
+DLB,9.76216,8.98851,0.88171,2,Miscellaneous,Multi-Sector Companies
+DLX,5.57541,1.8391,1.61008,0,Consumer Durables,Publishing
+DLTH,9.50163,3.81387,0.84134,2,Consumer Services,Clothing/Shoe/Accessory Stores
+DMLP,26.2867,26.31343,1.44608,1,Energy,Oil & Gas Production
+DEO,18.62156,6.10386,0.67121,2,Consumer Non-Durables,Beverages (Production/Distribution)
+DGII,2.33484,2.04724,1.81852,0,Technology,Computer Communications Equipment
+DORM,11.03122,10.40373,0.85379,2,Capital Goods,Auto Parts:O.E.M.
+DOV,21.37485,9.52056,1.31785,2,Technology,Industrial Machinery/Components
+DRD,18.87409,14.88671,0.92211,1,Basic Industries,Precious Metals
+DQ,12.96121,9.90479,0.83752,2,Technology,Semiconductors
+DOOR,7.08418,2.91455,1.78646,0,Basic Industries,Forest Products
+DTE,11.77644,3.62896,0.5825,2,Public Utilities,Electric Utilities: Central
+DUK,4.55044,1.29551,0.21424,2,Public Utilities,Power Generation
+DXCM,20.4188,8.90542,0.84466,2,Health Care,Medical/Dental Instruments
+DSGX,5.16769,4.88311,1.19709,2,Technology,Computer Software: Prepackaged Software
+DVA,42.74646,7.83487,1.30729,1,Health Care,Misc Health and Biotechnology Services
+DVD,17.38899,15.17822,0.65857,1,Consumer Services,Services-Misc. Amusement & Recreation
+EHC,18.57108,6.77718,1.11082,2,Health Care,Hospital/Nursing Management
+ECHO,1.63088,1.06789,1.09634,2,Transportation,Oil Refining/Marketing
+EGOV,23.13439,22.01819,0.27516,1,Miscellaneous,Business Services
+ECPG,21.27604,4.90587,1.60999,0,Finance,Finance Companies
+EIX,2.64605,0.83285,0.53613,2,Public Utilities,Electric Utilities: Central
+EBF,10.07337,9.14683,0.46975,2,Consumer Services,Office Equipment/Supplies/Services
+EGRX,2.83286,2.36601,0.73478,2,Health Care,Major Pharmaceuticals
+EDUC,30.37376,20.23871,1.23401,1,Consumer Durables,Consumer Specialties
+EEFT,0.51495,0.2588,1.60971,0,Finance,Investment Bankers/Brokers/Service
+EBS,14.57249,7.61513,1.23868,2,Health Care,Major Pharmaceuticals
+ECL,15.04142,7.00151,1.02961,2,Basic Industries,Package Goods/Cosmetics
+EGAN,25.22011,20.31143,0.38611,1,Technology,Computer Software: Prepackaged Software
+ELF,3.95607,2.39636,1.9934,0,Consumer Non-Durables,Package Goods/Cosmetics
+DXYN,30.94447,9.54368,2.88216,0,Consumer Durables,Home Furnishings
+DY,3.17141,1.5658,1.63256,0,Basic Industries,Water Supply
+EDU,13.70535,7.66547,0.9243,2,Consumer Services,Other Consumer Services
+EA,17.25202,14.7973,0.89425,1,Technology,Computer Software: Prepackaged Software
+EC,8.91741,5.41009,1.7904,0,Energy,Oil & Gas Production
+ED,7.42326,2.76915,0.1138,2,Public Utilities,Power Generation
+EIGI,9.26389,0.89046,2.60735,0,Technology,Computer Software: Prepackaged Software
+EL,13.62725,5.20403,0.84252,2,Consumer Non-Durables,Package Goods/Cosmetics
+EBIX,16.93183,7.19863,2.7125,0,Technology,EDP Services
+EFX,16.232,7.02074,1.28429,2,Finance,Finance: Consumer Services
+EGO,5.03304,3.79151,1.49356,0,Basic Industries,Precious Metals
+EPAC,1.68291,0.72045,1.40466,0,Technology,Industrial Machinery/Components
+ENVA,37.37369,12.82111,1.80677,1,Finance,Finance: Consumer Services
+EPAM,18.86109,16.34125,1.33952,1,Technology,EDP Services
+ENPH,62.50539,29.30226,1.14364,1,Technology,Semiconductors
+EPSN,2.08095,1.75759,0.41779,2,Energy,Oil & Gas Production
+ELJ,10.67786,3.4289,0.07815,2,Public Utilities,Electric Utilities: Central
+ELVT,30.84373,7.50054,2.79415,0,Finance,Finance: Consumer Services
+ELP,17.78929,9.68133,0.76394,2,Public Utilities,Electric Utilities: Central
+ELU,10.67786,3.4289,0.07815,2,Public Utilities,Electric Utilities: Central
+EME,7.03516,5.01268,1.18635,2,Capital Goods,Engineering & Construction
+ENSG,18.29162,6.77405,1.06499,2,Health Care,Hospital/Nursing Management
+ENIA,14.69092,9.47607,1.07843,2,Public Utilities,Electric Utilities: Central
+EML,8.54942,3.72113,1.07651,2,Capital Goods,Industrial Machinery/Components
+EMN,7.80488,3.42829,1.5628,0,Basic Industries,Major Chemicals
+ERIC,17.87369,9.32024,0.48549,2,Technology,Radio And Television Broadcasting And Communications Equipment
+ERIE,24.51785,19.61078,0.40984,1,Finance,Specialty Insurers
+EMR,23.62063,12.6205,1.54675,1,Energy,Consumer Electronics/Appliances
+ENB,3.28412,1.63504,0.81801,2,Energy,Natural Gas Distribution
+ENG,5.81226,4.66826,2.70374,0,Consumer Services,Military/Government/Technical
+ENO,8.05051,2.58514,0.21471,2,Public Utilities,Power Generation
+ENR,7.59761,1.14887,1.16991,2,Miscellaneous,Industrial Machinery/Components
+ENS,7.04046,3.52626,1.50721,0,Consumer Non-Durables,Telecommunications Equipment
+EPD,18.18244,8.75328,1.34665,2,Public Utilities,Natural Gas Distribution
+EPC,4.9408,2.33438,0.95797,2,Consumer Non-Durables,Package Goods/Cosmetics
+ENTG,21.94542,11.05389,1.34578,1,Consumer Non-Durables,Plastic Products
+ESE,2.84873,2.18342,1.06674,2,Capital Goods,Telecommunications Equipment
+ESI,5.5511,3.02837,1.79347,0,Basic Industries,Major Chemicals
+EXLS,11.58123,7.91676,0.93221,2,Miscellaneous,Business Services
+ETSY,43.14722,14.15775,1.68171,1,Miscellaneous,Business Services
+ETH,1.17915,0.89319,1.18834,0,Consumer Durables,Home Furnishings
+ETN,9.14787,5.3211,1.15412,2,Technology,Industrial Machinery/Components
+ETR,13.31665,2.96774,0.50529,2,Public Utilities,Electric Utilities: Central
+EVRG,7.24626,2.60857,0.35054,2,Public Utilities,Power Generation
+ESLT,10.06216,5.11155,0.883,2,Capital Goods,Military/Government/Technical
+ESCA,17.53432,16.61311,1.27529,1,Consumer Non-Durables,Recreational Products/Toys
+ERII,14.94616,12.9968,1.31206,2,Technology,Industrial Machinery/Components
+ES,9.06673,3.1399,0.3069,2,Public Utilities,Electric Utilities: Central
+EV,11.0468,6.6024,1.22986,2,Finance,Investment Managers
+EVA,4.05599,1.67459,0.98601,2,Basic Industries,Forest Products
+EW,19.86019,14.30058,0.97149,1,Health Care,Industrial Specialties
+EXEL,8.80481,8.56261,1.20584,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+EVR,27.12374,16.98747,1.70928,1,Finance,Investment Managers
+EVTC,35.24879,11.24767,1.14003,1,Technology,EDP Services
+EXPD,26.96072,23.65775,0.7463,1,Transportation,Oil Refining/Marketing
+ESEA,7.40971,3.29527,0.9554,2,Transportation,Marine Transportation
+EXC,7.32124,2.1055,0.39888,2,Public Utilities,Power Generation
+EXP,9.98932,4.49716,1.30804,0,Capital Goods,Building Materials
+FBM,10.85489,4.0015,1.77554,0,Consumer Services,RETAIL: Building Materials
+FCN,12.47158,8.45644,0.42512,2,Consumer Services,Professional Services
+FDP,1.30092,0.82441,0.72417,2,Consumer Non-Durables,Farming/Seeds/Milling
+FDS,47.54949,23.69137,0.77787,1,Technology,"Computer Software: Programming, Data Processing"
+FELE,11.6967,9.46264,1.02357,2,Consumer Durables,Metal Fabrications
+FDX,9.47699,2.85829,1.35292,0,Transportation,Air Freight/Delivery Services
+FCFS,9.92263,6.02493,0.73902,2,Consumer Services,Other Specialty Stores
+FAST,30.76782,24.88507,1.20482,1,Consumer Services,RETAIL: Building Materials
+FB,23.87475,20.58367,1.19337,1,Technology,"Computer Software: Programming, Data Processing"
+FE,8.47856,1.58179,0.14906,2,Public Utilities,Electric Utilities: Central
+EXPI,31.03004,29.7413,3.35093,1,Finance,Real Estate
+EXPO,22.79393,18.10781,0.32386,1,Consumer Services,Professional Services
+FBHS,19.88719,9.70685,1.65439,0,Basic Industries,Homebuilding
+FLWS,17.8954,10.48247,1.67047,0,Consumer Services,Other Specialty Stores
+FLOW,3.47226,2.13281,1.98644,0,Technology,Industrial Machinery/Components
+FLNT,1.40274,1.12906,3.08243,0,Consumer Services,Advertising
+FISV,2.81226,1.49494,0.8673,2,Technology,EDP Services
+FLO,7.46463,3.55296,0.34715,2,Consumer Non-Durables,Packaged Foods
+FLS,7.56204,3.55457,1.75975,0,Capital Goods,Fluid Controls
+FLIR,7.55892,5.09898,1.51076,0,Capital Goods,Industrial Machinery/Components
+FLT,21.34743,9.84093,1.51718,0,Miscellaneous,Business Services
+FMC,20.31571,7.8006,1.03993,2,Basic Industries,Major Chemicals
+FIZZ,33.12574,29.47268,1.40382,1,Consumer Non-Durables,Beverages (Production/Distribution)
+FIVE,14.47237,6.66499,1.14631,2,Consumer Services,Department/Specialty Retail Stores
+FENG,27.63763,26.18451,2.33262,1,Consumer Services,Broadcasting
+FF,29.02089,26.453,0.92606,1,Basic Industries,Major Chemicals
+FHI,28.68159,21.94323,1.21699,1,Finance,Investment Managers
+FL,13.1522,6.15101,1.2489,2,Consumer Services,Clothing/Shoe/Accessory Stores
+FFIV,15.39605,10.83609,1.12841,2,Technology,Computer Communications Equipment
+FLEX,10.95994,4.45616,1.62555,0,Technology,Electrical Products
+FFHL,22.76879,22.54783,0.96326,1,Capital Goods,Specialty Chemicals
+FIX,23.06348,14.78293,1.07021,1,Capital Goods,Engineering & Construction
+FRO,35.38058,15.89309,0.54213,1,Transportation,Marine Transportation
+FORTY,10.43023,11.47052,1.04392,2,Technology,EDP Services
+FRTA,23.26845,2.24901,2.57979,0,Capital Goods,Building Materials
+FSS,15.54517,9.61603,1.1131,2,Capital Goods,Auto Manufacturing
+FSTR,31.91593,17.93512,1.18735,1,Basic Industries,Metal Fabrications
+FSLR,4.22067,3.55711,1.22155,0,Technology,Semiconductors
+FOXF,15.06644,10.51439,1.78397,0,Consumer Non-Durables,Motor Vehicles
+FONR,5.59704,6.64242,1.05997,2,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+FMX,1.62041,1.90675,0.959,2,Consumer Non-Durables,Beverages (Production/Distribution)
+FND,20.93409,9.21201,1.87515,0,Consumer Services,RETAIL: Building Materials
+FOE,5.44146,1.4996,1.66716,0,Basic Industries,Paints/Coatings
+FOR,7.25345,4.38127,2.19544,0,Finance,Real Estate
+FPH,0.86471,0.93538,1.47877,0,Finance,Real Estate
+FN,12.74962,11.84268,0.99054,2,Public Utilities,Telecommunications Equipment
+FORM,11.72375,10.8853,1.40616,0,Technology,Semiconductors
+FRHC,35.56989,23.69908,0.89282,1,Finance,Investment Bankers/Brokers/Service
+FORR,7.72677,3.46485,1.02528,2,Consumer Services,Diversified Commercial Services
+FRPT,1.83048,1.66476,0.86223,2,Consumer Non-Durables,Packaged Foods
+FTNT,47.30351,21.84205,1.0929,1,Technology,Computer peripheral equipment
+G,18.65236,9.43097,1.32638,2,Consumer Services,Professional Services
+FTV,6.85469,4.14077,1.15119,2,Capital Goods,Industrial Machinery/Components
+FUL,9.26713,3.04688,1.73996,0,Basic Industries,Home Furnishings
+FVE,3.60548,0.9303,1.0766,2,Health Care,Hospital/Nursing Management
+GASS,2.35936,1.51886,1.71237,0,Transportation,Marine Transportation
+GBX,3.811,3.59443,1.58584,0,Capital Goods,Railroads
+FWRD,11.02412,7.13664,1.16439,2,Transportation,Oil Refining/Marketing
+GATX,10.17086,1.23316,1.06621,2,Consumer Services,Transportation Services
+GENC,3.90421,3.85952,0.6621,2,Capital Goods,Construction/Ag Equipment/Trucks
+GFF,9.0718,2.89462,2.01151,0,Capital Goods,Building Products
+GFI,8.91734,4.79641,0.48344,2,Basic Industries,Precious Metals
+GFN,1.72845,0.96332,1.21329,0,Technology,Diversified Commercial Services
+GGB,4.84009,2.90638,2.11157,0,Capital Goods,Steel/Iron Ore
+GGG,27.96626,19.92418,0.56144,1,Capital Goods,Fluid Controls
+GHC,6.61064,4.46418,1.0865,2,Consumer Services,Other Consumer Services
+GHM,1.54917,1.50833,0.86559,2,Technology,Industrial Machinery/Components
+GIB,15.80211,10.33519,1.0457,2,Consumer Services,Professional Services
+GDOT,5.04531,4.80493,0.96139,2,Finance,Finance: Consumer Services
+GIII,5.52086,3.4834,2.74041,0,Consumer Non-Durables,Apparel
+GIS,29.0572,9.79283,0.5619,1,Consumer Non-Durables,Packaged Foods
+GD,22.56545,9.84559,1.03642,2,Capital Goods,Marine Transportation
+GE,11.44613,1.89127,1.05088,2,Energy,Consumer Electronics/Appliances
+GCP,18.51852,9.60536,0.93347,2,Basic Industries,Major Chemicals
+GFNCP,1.72845,0.96332,1.21329,0,Technology,Diversified Commercial Services
+GILD,6.66509,2.44866,0.54265,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+GLDD,23.64328,9.75499,0.94389,2,Basic Industries,Military/Government/Technical
+GLP,20.70581,4.66259,1.52143,0,Energy,Oil Refining/Marketing
+GLW,1.83939,1.17151,1.17368,0,Basic Industries,Telecommunications Equipment
+GMED,6.88367,6.77787,1.00031,2,Health Care,Medical/Dental Instruments
+GMS,3.87571,1.36754,2.10389,0,Consumer Services,RETAIL: Building Materials
+GNE,16.51562,11.99183,0.70712,2,Public Utilities,Power Generation
+GOLD,14.09146,12.50469,0.00893,2,Basic Industries,Precious Metals
+GOLD,14.09146,12.50469,0.00893,2,Basic Industries,Precious Metals
+GOLF,9.72248,6.78644,0.83283,2,Consumer Non-Durables,Recreational Products/Toys
+GLOB,8.01362,6.75213,1.20482,2,Technology,EDP Services
+GLUU,2.55106,2.09824,0.94258,2,Technology,EDP Services
+GNRC,27.27605,13.24704,0.93109,1,Consumer Durables,Metal Fabrications
+GPC,0.15543,0.06634,1.06756,2,Capital Goods,Automotive Aftermarket
+GOOGL,17.51114,15.04139,0.99684,1,Technology,"Computer Software: Programming, Data Processing"
+GPI,17.78075,7.68147,2.1341,0,Consumer Durables,Automotive Aftermarket
+GPK,9.12137,3.10753,1.19248,2,Consumer Durables,Containers/Packaging
+GPN,1.81789,1.14143,1.17004,0,Miscellaneous,Business Services
+GNTX,15.69509,15.41604,1.15369,1,Capital Goods,Auto Parts:O.E.M.
+GNSS,6.35154,5.62624,0.63843,2,Consumer Non-Durables,Consumer Electronics/Appliances
+GMLPP,1.93275,0.86878,1.11637,2,Consumer Services,Marine Transportation
+GMLP,1.93275,0.86878,1.11637,2,Consumer Services,Marine Transportation
+GOOG,17.51114,15.04139,0.99684,1,Technology,"Computer Software: Programming, Data Processing"
+GM,7.31327,2.24029,1.46713,0,Capital Goods,Auto Manufacturing
+GTN,15.37943,4.08998,2.06939,0,Consumer Services,Broadcasting
+GTY,7.99047,4.2345,0.7745,2,Finance,Real Estate
+GWRS,3.69896,0.42322,0.56984,2,Public Utilities,Water Supply
+GTLS,3.52558,2.13155,1.81234,0,Capital Goods,Metal Fabrications
+GROW,5.238,5.19459,2.86561,0,Finance,Investment Managers
+GRBK,17.93056,13.19998,1.36053,1,Capital Goods,Homebuilding
+GWW,31.48426,15.18735,1.15742,1,Consumer Services,Office Equipment/Supplies/Services
+HAE,16.96077,10.45742,0.55089,2,Health Care,Medical/Dental Instruments
+GPX,4.01749,2.58781,1.59782,0,Consumer Services,Other Consumer Services
+GRA,3.51752,0.35692,1.45716,0,Basic Industries,Major Chemicals
+GRC,8.48299,7.81681,0.59301,2,Capital Goods,Fluid Controls
+GRWG,4.06582,3.7768,3.11444,0,Consumer Services,RETAIL: Building Materials
+GSK,48.89861,13.60783,0.66249,1,Health Care,Major Pharmaceuticals
+GSL,8.09773,3.3057,1.97739,0,Transportation,Marine Transportation
+GS,7.73716,1.49464,1.48096,0,Finance,Investment Bankers/Brokers/Service
+GRMN,21.498,20.11009,0.99521,1,Capital Goods,Industrial Machinery/Components
+HAIN,1.3624,1.13524,0.89736,2,Consumer Non-Durables,Packaged Foods
+HELE,17.79395,13.61214,0.93242,2,Consumer Durables,Home Furnishings
+HALO,12.50156,5.66892,1.76169,0,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+HIBB,19.19388,12.41768,1.67523,0,Consumer Services,Other Specialty Stores
+HESM,21.02112,18.76914,2.31279,1,Energy,Oil & Gas Production
+HGV,4.92126,0.85807,2.25428,0,Consumer Services,Hotels/Resorts
+HIMX,3.24119,2.60057,1.87637,0,Technology,Semiconductors
+HII,33.24965,10.41412,0.89748,1,Capital Goods,Marine Transportation
+HIL,5.52141,3.35912,1.9625,0,Consumer Services,Military/Government/Technical
+HAS,16.67257,6.22679,0.91172,2,Consumer Non-Durables,Recreational Products/Toys
+HCCI,1.6548,1.20665,1.38324,0,Basic Industries,Miscellaneous
+HCKT,5.07004,4.60247,0.74924,2,Consumer Services,Professional Services
+HBI,38.46093,7.41251,1.39736,1,Consumer Services,Clothing/Shoe/Accessory Stores
+HGBL,28.93969,27.02908,1.30719,1,Miscellaneous,Business Services
+HCC,2.48398,1.52582,1.23071,0,Energy,Coal Mining
+HCSG,19.52722,15.14348,0.39875,1,Health Care,Hospital/Nursing Management
+HDS,27.64173,10.66115,1.39808,1,Consumer Services,Office Equipment/Supplies/Services
+HIHO,5.44191,4.98937,0.46432,2,Capital Goods,Metal Fabrications
+HEI,19.07113,13.25333,1.17202,1,Capital Goods,Aerospace
+HEP,42.84116,8.69047,1.13519,1,Energy,Natural Gas Distribution
+HE,8.95097,1.53022,0.17543,2,Public Utilities,Electric Utilities: Central
+HNI,11.81409,6.80322,1.14444,2,Consumer Durables,Office Equipment/Supplies/Services
+HMSY,6.26252,4.7154,0.77686,2,Miscellaneous,Business Services
+HLIO,3.92144,2.42017,1.19737,0,Capital Goods,Metal Fabrications
+HNP,1.44638,1.29195,0.74225,2,Public Utilities,Electric Utilities: Central
+HNNA,11.53389,9.34455,1.01203,2,Finance,Investment Managers
+HOG,6.16685,1.46379,1.61133,0,Consumer Non-Durables,Motor Vehicles
+HON,26.61471,11.41442,1.12041,1,Capital Goods,Aerospace
+HPE,0.73617,0.35361,1.38137,0,Technology,Retail: Computer Software & Peripheral Equipment
+HSIC,19.76661,9.62128,0.84791,2,Health Care,Medical Specialities
+HPP,0.65486,0.56648,1.03099,2,Finance,Real Estate
+HQI,24.73133,21.66706,0.82506,1,Technology,Professional Services
+HMLP,14.91111,6.7788,1.86084,0,Consumer Services,Marine Transportation
+HRC,13.51761,6.05189,0.591,2,Health Care,Medical/Dental Instruments
+HTLD,9.4521,7.58682,0.56981,2,Transportation,Trucking Freight/Courier Services
+HSY,62.5558,19.02006,0.29557,1,Consumer Non-Durables,Specialty Foods
+HLI,18.93118,18.16674,0.66795,1,Finance,Investment Managers
+HMC,3.01451,1.94357,0.92801,2,Capital Goods,Auto Manufacturing
+HOLI,7.16766,6.88917,0.98981,2,Energy,Industrial Machinery/Components
+HSTM,4.99046,4.38874,0.31187,2,Technology,"Computer Software: Programming, Data Processing"
+HOLX,46.26522,19.61082,1.27404,1,Health Care,Medical Electronics
+ICLR,20.54543,17.44001,0.90103,1,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+HVT,14.85547,8.4448,1.66871,0,Consumer Services,Other Specialty Stores
+ICUI,5.82757,5.56075,0.69816,2,Health Care,Medical/Dental Instruments
+HY,5.07642,2.88442,1.30697,0,Capital Goods,Construction/Ag Equipment/Trucks
+HWM,10.18919,3.63604,1.93061,0,Capital Goods,Metal Fabrications
+HUBB,18.92395,9.10983,1.19327,2,Capital Goods,Electrical Products
+HUBG,7.26071,5.29625,1.02603,2,Transportation,Oil Refining/Marketing
+HXL,8.54929,4.41051,1.51233,0,Basic Industries,Major Chemicals
+IBA,7.61151,6.60213,0.80137,2,Consumer Non-Durables,Meat/Poultry/Fish
+IBM,40.95493,6.96195,1.24002,1,Technology,Computer Manufacturing
+IBP,33.3255,9.89105,1.85765,1,Basic Industries,Homebuilding
+ICE,11.11602,6.2575,0.66972,2,Finance,Investment Bankers/Brokers/Service
+HZNP,29.59459,19.63069,1.14599,1,Health Care,Major Pharmaceuticals
+IART,4.05805,1.80917,1.20049,0,Health Care,Medical/Dental Instruments
+HZO,18.1103,17.07921,1.78038,1,Consumer Services,Other Specialty Stores
+ICFI,8.71105,5.08401,0.58351,2,Consumer Services,Professional Services
+ICHR,12.43242,6.7632,2.3747,0,Technology,Semiconductors
+IDA,9.82269,3.85916,0.41385,2,Public Utilities,Electric Utilities: Central
+HWKN,13.75333,9.46339,0.86601,2,Consumer Durables,Specialty Chemicals
+IDCC,29.23615,17.21002,1.14464,1,Miscellaneous,Multi-Sector Companies
+HUN,5.83658,3.07692,1.57796,0,Basic Industries,Major Chemicals
+IIPR,6.19922,5.45688,1.52469,0,Finance,Real Estate
+ILMN,13.96214,10.00078,1.09474,2,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+III,3.81967,1.85319,0.70603,2,Consumer Services,Professional Services
+IMOS,11.27338,7.44714,0.71691,2,Technology,Semiconductors
+IMXI,44.79889,19.41016,0.42534,1,Miscellaneous,Business Services
+IESC,14.51819,13.5092,1.15009,2,Capital Goods,Engineering & Construction
+IIIN,7.44254,6.92723,1.62752,0,Capital Goods,Steel/Iron Ore
+IMKTA,20.09852,8.87855,0.6625,2,Consumer Services,Food Chains
+INFO,10.96631,6.44277,1.07825,2,Technology,"Computer Software: Programming, Data Processing"
+INFO,10.96631,6.44277,1.07825,2,Technology,"Computer Software: Programming, Data Processing"
+IDT,32.71356,30.41617,1.09182,1,Public Utilities,Telecommunications Equipment
+INFY,27.15308,25.06115,0.841,1,Technology,EDP Services
+IEC,19.08942,9.84424,1.01464,2,Technology,Electrical Products
+IEX,16.37106,10.42659,1.08247,2,Capital Goods,Fluid Controls
+IFF,6.09077,3.34321,0.99219,2,Basic Industries,Major Chemicals
+IGT,17.71821,6.50427,2.28298,0,Consumer Services,Services-Misc. Amusement & Recreation
+IPG,21.86994,6.80336,0.99522,2,Technology,Advertising
+IRBT,21.89267,19.94873,1.46295,1,Consumer Durables,Consumer Electronics/Appliances
+IOSP,4.11664,3.2198,1.33219,0,Basic Industries,Major Chemicals
+IP,6.81161,1.73068,1.12228,2,Basic Industries,Paper
+IT,21.95416,5.03778,1.56938,0,Consumer Services,Other Consumer Services
+IQV,2.93897,1.02884,1.40016,0,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+INTU,44.31178,32.83532,0.98658,1,Technology,Computer Software: Prepackaged Software
+IONS,5.39824,2.28555,1.38952,0,Health Care,Major Pharmaceuticals
+IRS,34.34183,7.43371,1.15732,1,Consumer Services,Homebuilding
+ISNS,3.31787,3.28196,1.05473,2,Capital Goods,Industrial Machinery/Components
+INSW,12.30267,7.61896,0.31414,2,Consumer Services,Marine Transportation
+IPGP,4.36189,4.15674,1.47724,0,Technology,Semiconductors
+IRCP,39.70176,24.24968,1.25418,1,Consumer Services,Building operators
+ITGR,6.17173,3.26397,1.41556,0,Miscellaneous,Industrial Machinery/Components
+INTC,29.46658,18.93182,0.73353,1,Technology,Semiconductors
+IPLDP,9.60984,3.89917,0.10973,2,Public Utilities,Power Generation
+IRMD,7.06426,6.48259,1.19826,2,Health Care,Medical/Dental Instruments
+INVA,57.51922,36.28428,0.56302,1,Health Care,Major Pharmaceuticals
+INVH,2.16241,1.03979,0.79918,2,Finance,Real Estate
+IPAR,6.62032,7.90422,0.96869,2,Consumer Non-Durables,Package Goods/Cosmetics
+INT,9.03116,5.96633,1.25379,2,Energy,Oil Refining/Marketing
+ISSC,8.21313,8.18405,1.19056,2,Technology,EDP Services
+INOV,0.8631,0.3273,0.66116,2,Technology,EDP Services
+INGR,12.81619,6.66477,0.75163,2,Consumer Non-Durables,Packaged Foods
+ISRG,12.37543,11.92375,0.94712,2,Health Care,Industrial Specialties
+JBL,2.91509,1.16482,1.31883,0,Technology,Electrical Products
+JBT,21.28447,8.55736,1.57964,0,Technology,Industrial Machinery/Components
+IVAC,5.46486,4.9949,0.9377,2,Technology,Industrial Machinery/Components
+IX,7.76706,2.419,0.96946,2,Finance,Diversified Financial Services
+JKHY,19.76646,15.87588,0.52459,1,Technology,EDP Services
+JCI,3.39129,2.49862,1.03756,2,Consumer Services,Other Consumer Services
+JKS,14.42105,10.98211,1.10664,2,Technology,Semiconductors
+JD,25.35951,21.00376,0.91442,1,Consumer Services,Other Specialty Stores
+J,6.13663,4.35833,0.91578,2,Basic Industries,Military/Government/Technical
+JLL,8.44614,5.43039,1.47546,0,Finance,Real Estate
+JNPR,8.59266,5.44486,0.90338,2,Technology,Computer Communications Equipment
+JBHT,21.22235,11.04406,1.01221,2,Transportation,Trucking Freight/Courier Services
+JEF,9.43061,2.25988,1.59912,0,Finance,Investment Bankers/Brokers/Service
+JOBS,8.75515,8.40116,0.79473,2,Technology,Diversified Commercial Services
+JOUT,12.7359,11.36071,0.81203,2,Consumer Non-Durables,Recreational Products/Toys
+JNJ,27.20181,13.23209,0.67489,1,Health Care,Major Pharmaceuticals
+ITT,7.39579,4.63279,1.55775,0,Capital Goods,Fluid Controls
+JAZZ,5.57229,3.38975,1.0581,2,Health Care,Major Pharmaceuticals
+JOE,6.70304,3.95642,1.17597,2,Consumer Services,Homebuilding
+JJSF,2.2279,2.01095,0.56436,2,Consumer Non-Durables,Specialty Foods
+JBSS,23.6126,19.01475,0.10539,1,Consumer Non-Durables,Specialty Foods
+IVZ,5.06512,2.97753,1.36086,0,Finance,Investment Managers
+JELD,6.70741,2.04067,2.58199,0,Basic Industries,Forest Products
+JHX,16.25872,4.69694,1.238,2,Capital Goods,Building Materials
+JCTCF,13.99992,13.82733,0.56785,2,Consumer Services,RETAIL: Building Materials
+JCOM,18.84288,8.96505,0.9796,2,Technology,Telecommunications Equipment
+KDP,5.63947,3.06946,0.64814,2,Consumer Non-Durables,Beverages (Production/Distribution)
+KLIC,6.84978,5.8098,1.19161,2,Technology,Semiconductors
+KMI,0.33746,0.27305,1.07414,2,Public Utilities,Natural Gas Distribution
+KEN,35.53671,19.01178,1.74231,1,Public Utilities,Electric Utilities: Central
+KEP,0.13478,0.10222,0.79441,2,Public Utilities,Electric Utilities: Central
+KMX,18.16575,3.59337,1.77804,0,Consumer Durables,Automotive Aftermarket
+KNL,4.14918,1.70613,1.92577,0,Consumer Durables,Office Equipment/Supplies/Services
+K,42.38434,10.03414,0.5944,1,Consumer Non-Durables,Packaged Foods
+KE,4.82386,3.67249,1.41951,0,Technology,Electrical Products
+KLAC,47.73462,17.38809,1.25772,1,Capital Goods,Electronic Components
+KGC,20.41082,13.14119,0.81345,1,Basic Industries,Precious Metals
+JVA,0.02969,0.72753,1.54422,0,Consumer Non-Durables,Food Distributors
+JYNT,57.86642,11.85826,1.26331,1,Miscellaneous,Multi-Sector Companies
+KALU,1.67267,0.8324,1.18548,0,Capital Goods,Metal Fabrications
+KNOP,9.37061,4.01935,1.29353,0,Consumer Services,Marine Transportation
+KAI,11.02577,6.12722,1.37874,0,Technology,Industrial Machinery/Components
+KAR,1.30134,0.76344,1.64057,0,Consumer Durables,Automotive Aftermarket
+KBH,12.90878,7.35313,1.94398,0,Capital Goods,Homebuilding
+KEYS,19.9016,10.66599,1.04658,2,Capital Goods,Industrial Machinery/Components
+KBAL,14.83146,13.06166,0.89702,2,Consumer Durables,Home Furnishings
+KFRC,29.24237,15.79366,1.50786,1,Technology,Professional Services
+KKR,9.69992,4.87063,1.43495,0,Finance,Investment Managers
+KTOS,0.85592,0.49109,1.055,2,Capital Goods,Military/Government/Technical
+LAWS,10.14707,7.70253,1.21038,2,Consumer Durables,Industrial Specialties
+KNX,5.83719,4.51984,1.22831,0,Transportation,Trucking Freight/Courier Services
+LBRDA,2.13561,1.802,1.09432,2,Consumer Services,Television Services
+KOF,7.53829,4.34163,0.84563,2,Consumer Non-Durables,Beverages (Production/Distribution)
+KO,44.65702,12.96502,0.56686,1,Consumer Non-Durables,Beverages (Production/Distribution)
+KR,27.94237,7.77407,0.3373,2,Consumer Services,Food Chains
+KWR,0.529,0.0333,1.54826,0,Basic Industries,Major Chemicals
+KT,4.42622,2.93056,0.88087,2,Public Utilities,Telecommunications Equipment
+KW,6.64526,1.45,1.23535,0,Finance,Real Estate
+KOP,48.19277,7.1437,2.15772,1,Basic Industries,Forest Products
+LBRDK,2.13561,1.802,1.09432,2,Consumer Services,Television Services
+LAD,22.96961,9.43072,1.92446,0,Consumer Durables,Automotive Aftermarket
+LAZ,43.70716,9.46228,1.63557,1,Finance,Investment Managers
+KTCC,4.21399,2.57542,1.78475,0,Technology,Electrical Products
+KRO,7.65498,3.74614,1.25866,0,Basic Industries,Major Chemicals
+LANC,17.15624,15.58974,0.22833,2,Consumer Non-Durables,Packaged Foods
+KSU,12.39458,6.39816,1.01696,2,Transportation,Railroads
+LCII,16.76452,9.65903,1.613,0,Capital Goods,Auto Parts:O.E.M.
+LMNX,2.34651,1.925,0.62869,2,Health Care,Medical/Dental Instruments
+LMAT,12.39701,10.22256,1.39852,0,Health Care,Medical/Dental Instruments
+LHX,5.99737,3.92594,0.802,2,Capital Goods,Industrial Machinery/Components
+LIN,4.69893,3.20213,0.81565,2,Basic Industries,Major Chemicals
+LE,3.96379,1.59749,2.71476,0,Consumer Services,Clothing/Shoe/Accessory Stores
+LH,10.92294,5.45912,1.08534,2,Health Care,Medical Specialities
+LDOS,17.69275,7.78067,1.05575,2,Technology,EDP Services
+LL,27.71704,12.57208,2.6155,0,Consumer Services,RETAIL: Building Materials
+LECO,26.89255,11.79918,1.15915,1,Technology,Industrial Machinery/Components
+LITE,9.17866,5.49159,1.01506,2,Capital Goods,Telecommunications Equipment
+LFVN,38.39084,31.02998,1.40218,1,Health Care,Major Pharmaceuticals
+LEJU,6.75605,5.82921,1.21242,2,Finance,Real Estate
+LKQ,11.72856,5.82549,1.66758,0,Consumer Services,Motor Vehicles
+LFUS,6.24105,3.96699,1.16475,2,Consumer Durables,Electrical Products
+LHCG,7.14496,7.30739,0.45516,2,Health Care,Medical/Nursing Services
+LINC,26.2542,10.30195,0.78239,1,Consumer Services,Other Consumer Services
+LMB,13.07876,6.40549,1.07647,2,Basic Industries,Engineering & Construction
+LEA,1.98882,1.74641,1.61195,0,Capital Goods,Auto Parts:O.E.M.
+LEG,18.09997,6.0477,1.45245,0,Consumer Durables,Home Furnishings
+LEN,13.71416,8.45596,1.57262,0,Basic Industries,Homebuilding
+LGIH,28.19854,15.83721,1.5336,1,Capital Goods,Homebuilding
+LSCC,13.22287,8.2037,1.02394,2,Technology,Semiconductors
+LOCO,8.81136,4.06815,1.52986,0,Consumer Services,Restaurants
+LNN,13.57408,8.67954,0.28627,2,Capital Goods,Industrial Machinery/Components
+LNT,12.39722,4.38164,0.28516,2,Public Utilities,Power Generation
+LWAY,8.48582,7.66401,1.96625,0,Consumer Non-Durables,Packaged Foods
+MAN,3.26852,1.86187,2.05859,0,Technology,Professional Services
+LPG,8.00018,4.95837,1.27157,0,Transportation,Marine Transportation
+LSXMB,8.5619,3.16541,1.27649,0,Consumer Services,Broadcasting
+LSXMA,8.5619,3.16541,1.27649,0,Consumer Services,Broadcasting
+LYB,15.55877,4.77169,1.54867,0,Basic Industries,Major Chemicals
+LNTH,0.12656,0.06822,1.32653,0,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+LPX,16.30573,10.64251,1.80969,0,Basic Industries,Forest Products
+LRCX,50.39632,24.2331,1.34274,1,Technology,Industrial Machinery/Components
+LSXMK,8.5619,3.16541,1.27649,0,Consumer Services,Broadcasting
+LSTR,24.23124,20.23077,1.00165,1,Transportation,Trucking Freight/Courier Services
+LZB,10.60726,7.06134,1.16619,2,Consumer Durables,Home Furnishings
+LXFR,5.90053,3.55466,0.96858,2,Basic Industries,Major Chemicals
+LRN,6.98085,5.13669,0.60303,2,Consumer Services,Other Consumer Services
+LOPE,17.02555,14.9106,0.54933,2,Consumer Services,Other Consumer Services
+MAGS,3.45393,3.42155,1.08459,2,Capital Goods,Telecommunications Equipment
+LUMN,9.3557,2.22882,1.10692,2,Public Utilities,Telecommunications Equipment
+LPLA,43.79711,13.26203,1.47671,1,Finance,Investment Bankers/Brokers/Service
+LPTH,6.88843,5.82219,1.2518,0,Technology,Semiconductors
+LUNA,10.02351,9.34696,1.24846,2,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+LYTS,5.67203,4.78127,1.94683,0,Consumer Durables,Building Products
+LULU,30.7504,22.14046,1.23284,1,Consumer Non-Durables,Apparel
+MEDP,16.71556,14.66442,1.34525,1,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+MCHP,11.25775,4.02371,1.699,0,Technology,Semiconductors
+MATX,14.57236,5.27285,1.045,2,Consumer Services,Marine Transportation
+MAR,32.98969,0.92108,1.83911,0,Consumer Services,Hotels/Resorts
+MDLZ,11.63929,4.36987,0.61773,2,Consumer Non-Durables,Packaged Foods
+MCRI,4.25926,2.80199,1.64179,0,Consumer Services,Hotels/Resorts
+MCK,36.01681,12.97576,0.93398,1,Health Care,Other Pharmaceuticals
+MANT,8.57929,7.12603,0.78055,2,Consumer Services,Other Consumer Services
+MDC,16.84308,10.66184,1.54305,0,Capital Goods,Homebuilding
+MC,16.7343,11.77986,1.30064,2,Finance,Investment Managers
+MD,1.6563,0.56247,2.03093,0,Health Care,Hospital/Nursing Management
+MDT,6.95638,4.21862,0.69989,2,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+MDU,12.85042,5.42622,0.69572,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+MAXR,6.94526,1.04712,1.1891,0,Technology,Radio And Television Broadcasting And Communications Equipment
+MEI,15.15608,9.87086,1.28067,2,Capital Goods,Electrical Products
+MASI,17.64087,16.83085,0.8699,1,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+MBUU,27.55076,17.4159,1.91371,1,Capital Goods,Marine Transportation
+MGIC,9.60872,9.30808,1.30898,2,Technology,Computer Software: Prepackaged Software
+MIME,6.4077,3.31548,1.2991,0,Technology,Computer Software: Prepackaged Software
+MHK,6.68417,4.9118,1.50529,0,Consumer Durables,Home Furnishings
+MHO,18.93236,9.87744,2.14463,0,Capital Goods,Homebuilding
+METC,1.01511,0.83941,1.07671,2,Energy,Coal Mining
+MGPI,17.55828,14.14034,1.50634,1,Consumer Non-Durables,Beverages (Production/Distribution)
+MITK,5.47625,4.94093,0.28017,2,Technology,Computer peripheral equipment
+MIDD,13.60586,6.0333,1.7887,0,Technology,Industrial Machinery/Components
+MKSI,13.20201,8.62342,1.60474,0,Capital Goods,Industrial Machinery/Components
+MKC,20.53936,8.34263,0.44066,2,Consumer Non-Durables,Packaged Foods
+MGRC,15.20892,8.1639,1.01412,2,Technology,Diversified Commercial Services
+MKTX,34.76016,34.56859,0.39795,1,Finance,Investment Bankers/Brokers/Service
+MLI,19.80624,13.78241,1.20158,1,Capital Goods,Metal Fabrications
+MLM,12.09735,6.8759,0.7056,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+MLR,11.34657,10.96849,0.99814,2,Capital Goods,Construction/Ag Equipment/Trucks
+MGEE,10.22392,4.66984,0.46436,2,Energy,Electric Utilities: Central
+MMC,25.08173,8.1371,0.85285,2,Finance,Specialty Insurers
+MGLN,3.35366,2.22017,1.21736,0,Health Care,Hospital/Nursing Management
+MIXT,7.49542,6.51829,1.02163,2,Technology,Computer Software: Prepackaged Software
+MLHR,2.10512,0.5965,1.45778,0,Consumer Durables,Office Equipment/Supplies/Services
+MFH,6.8908,6.8908,1.10474,2,Technology,EDP Services
+MGA,4.4175,2.21931,1.60161,0,Capital Goods,Auto Parts:O.E.M.
+MMAC,26.41524,14.75855,0.61688,1,Finance,Real Estate
+MGM,22.7785,4.56621,2.41338,0,Consumer Services,Hotels/Resorts
+MPX,19.24089,17.36468,1.12269,1,Capital Goods,Marine Transportation
+MPAA,1.70162,1.09489,1.89943,0,Capital Goods,Auto Parts:O.E.M.
+MRVL,18.17059,14.89075,1.17293,1,Technology,Semiconductors
+MRK,41.29659,17.57323,0.44418,1,Health Care,Major Pharmaceuticals
+MSA,18.91517,9.55147,0.98342,2,Health Care,Industrial Specialties
+MORN,15.85399,9.11237,1.0294,2,Finance,Investment Managers
+MPWR,18.91162,17.19022,0.93844,1,Technology,Semiconductors
+MN,3.71491,3.42599,3.03853,0,Finance,Investment Managers
+MO,12.65712,2.05881,0.56056,2,Consumer Non-Durables,Farming/Seeds/Milling
+MS,12.12338,2.19491,1.57743,0,Finance,Investment Bankers/Brokers/Service
+MMI,8.04262,6.65506,1.05492,2,Finance,Real Estate
+MMM,43.96422,13.69172,0.92341,1,Health Care,Medical/Dental Instruments
+MMP,36.32266,12.00369,1.02304,1,Energy,Natural Gas Distribution
+MMS,17.23233,15.08174,0.83249,1,Miscellaneous,Business Services
+MNRO,4.14851,2.13103,1.09209,2,Consumer Services,Automotive Aftermarket
+MNDO,23.60315,21.39885,0.75878,1,Technology,EDP Services
+MSFT,41.39933,21.02607,0.82329,1,Technology,Computer Software: Prepackaged Software
+MOMO,23.2365,15.71312,1.50938,1,Technology,Computer Software: Prepackaged Software
+MNST,27.30391,25.52269,1.1043,1,Consumer Non-Durables,Beverages (Production/Distribution)
+MOH,40.02976,20.91215,0.74399,1,Health Care,Medical Specialities
+MRTN,10.69499,8.94854,1.06676,2,Transportation,Trucking Freight/Courier Services
+MSEX,12.32171,4.60552,0.22493,2,Public Utilities,Water Supply
+MRCY,6.08641,5.70012,0.97586,2,Capital Goods,Electrical Products
+NAT,15.24708,9.55897,0.65263,2,Consumer Services,Marine Transportation
+MTRN,4.10424,3.21102,1.46393,0,Capital Goods,Industrial Specialties
+MTSC,2.7344,1.22791,1.82688,0,Capital Goods,Industrial Machinery/Components
+MYE,22.49515,15.5185,1.49343,1,Consumer Non-Durables,Plastic Products
+MXIM,39.17481,20.90151,1.2687,1,Technology,Semiconductors
+NAII,0.69613,0.53932,0.85452,2,Consumer Durables,Specialty Chemicals
+NATI,16.45052,13.86914,1.07781,2,Technology,Computer Software: Prepackaged Software
+NATR,12.02716,10.85513,0.92352,2,Health Care,Major Pharmaceuticals
+MSM,17.9787,13.15673,0.97225,2,Capital Goods,Industrial Machinery/Components
+MSTR,0.43815,0.33389,1.55835,0,Technology,Computer Software: Prepackaged Software
+MTH,18.39056,11.69945,1.70302,0,Capital Goods,Homebuilding
+NAVI,14.48853,0.46249,1.82975,0,Finance,Investment Bankers/Brokers/Service
+MTN,7.01598,2.75859,1.25787,0,Consumer Services,Services-Misc. Amusement & Recreation
+MTR,30.98055,30.98055,1.13647,1,Energy,Oil & Gas Production
+MTX,7.76542,3.97038,1.52842,0,Basic Industries,Major Chemicals
+MTZ,17.51109,8.61998,1.3821,0,Basic Industries,Water Supply
+MU,7.1771,6.10482,1.36517,0,Technology,Semiconductors
+MX,10.277,3.25111,1.08525,2,Technology,Semiconductors
+MTEX,30.01828,23.22993,1.13911,1,Consumer Durables,Specialty Chemicals
+MYRG,14.06382,9.25327,0.98739,2,Basic Industries,Water Supply
+MUSA,44.50946,17.03927,0.98667,1,Consumer Durables,Automotive Aftermarket
+MWA,11.69971,6.00851,1.30286,0,Capital Goods,Metal Fabrications
+MTOR,57.61511,12.48113,2.24553,1,Capital Goods,Auto Parts:O.E.M.
+NGVC,12.1277,5.02431,1.34365,0,Consumer Services,Food Chains
+NGVT,33.89607,9.0091,2.2009,1,Basic Industries,Major Chemicals
+NCR,49.66163,7.39274,1.7804,1,Miscellaneous,Office Equipment/Supplies/Services
+NDAQ,16.06985,9.13054,0.78041,2,Finance,Investment Bankers/Brokers/Service
+NFLX,31.15675,9.85413,0.93227,1,Consumer Services,Consumer Electronics/Video Chains
+NBLX,18.78545,6.39703,3.46482,0,Energy,Natural Gas Distribution
+NEE,10.61736,3.37554,0.14961,2,Public Utilities,Electric Utilities: Central
+NESR,4.12746,2.8617,0.936,2,Energy,Oilfield Services/Equipment
+NEM,10.87297,6.09296,0.16699,2,Basic Industries,Precious Metals
+NEU,37.45639,16.57789,0.41672,1,Basic Industries,Major Chemicals
+NGG,7.96999,2.55793,0.29472,2,Public Utilities,Natural Gas Distribution
+NC,9.02527,6.74328,1.06213,2,Consumer Durables,Consumer Electronics/Appliances
+NDSN,20.12404,10.23724,0.98286,2,Capital Goods,Industrial Machinery/Components
+NGS,0.44621,0.38661,2.26279,0,Energy,Oilfield Services/Equipment
+NBIX,13.54787,9.55067,1.0005,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NEWA,14.8621,13.42158,0.95132,2,Basic Industries,Miscellaneous
+NEOG,8.59623,8.33634,0.49262,2,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+NJR,9.8931,3.91206,0.43253,2,Public Utilities,Oil/Gas Transmission
+NOVT,9.61966,5.63915,1.11299,2,Miscellaneous,Industrial Machinery/Components
+NKE,29.20104,12.56481,0.84567,1,Consumer Non-Durables,Shoe Manufacturing
+NODK,11.77047,6.54776,0.24123,2,Finance,Property-Casualty Insurers
+NOMD,9.0245,4.34089,0.84751,2,Consumer Non-Durables,Packaged Foods
+NLOK,28.99219,10.38251,0.69682,1,Technology,Computer Software: Prepackaged Software
+NICK,4.87182,2.41461,0.50878,2,Finance,Finance Companies
+NLS,35.39354,24.80157,1.81558,1,Consumer Non-Durables,Recreational Products/Toys
+NISN,6.0417,5.85809,1.05021,2,Capital Goods,Metal Fabrications
+NMR,8.55809,1.16779,1.00384,2,Finance,Investment Bankers/Brokers/Service
+NICE,8.7245,6.63077,0.74559,2,Technology,Computer Software: Prepackaged Software
+NNI,6.63693,0.7036,0.68604,2,Finance,Finance: Consumer Services
+NOAH,11.12558,9.32835,1.36322,0,Finance,Investment Managers
+NPTN,5.54907,4.00964,1.19898,2,Technology,Semiconductors
+NOA,23.06289,6.83693,1.43717,0,Energy,Oilfield Services/Equipment
+NOC,24.25983,7.33533,0.74959,2,Capital Goods,Industrial Machinery/Components
+NOK,5.00543,2.77047,0.76376,2,Technology,Radio And Television Broadcasting And Communications Equipment
+NOW,34.14802,18.84858,1.15906,1,Technology,Computer Software: Prepackaged Software
+NL,5.46856,3.66931,1.33137,0,Basic Industries,Major Chemicals
+NPK,12.49857,12.37546,0.73069,2,Capital Goods,Ordnance And Accessories
+NUAN,1.74492,0.94216,1.2365,0,Technology,Computer Software: Prepackaged Software
+NVCR,3.16927,2.25468,1.23931,0,Health Care,Medical/Dental Instruments
+NTGR,4.24549,3.92247,0.88582,2,Public Utilities,Telecommunications Equipment
+NXGN,2.41859,2.00988,1.22735,0,Technology,EDP Services
+NSC,13.28076,5.66328,1.40771,0,Transportation,Railroads
+NTWK,6.25508,7.85203,0.79758,2,Technology,Computer Software: Prepackaged Software
+NVMI,14.06239,12.64526,1.07266,2,Capital Goods,Electronic Components
+NVEC,15.10488,15.02462,1.1725,1,Technology,Semiconductors
+NVEE,5.4655,3.30775,1.18609,2,Consumer Services,Other Consumer Services
+NUE,4.12046,3.3773,1.35222,0,Basic Industries,Steel/Iron Ore
+NVDA,28.82326,20.37979,1.46852,1,Technology,Semiconductors
+NUS,18.88514,11.62252,1.34544,2,Health Care,Other Pharmaceuticals
+NVS,13.27564,7.65825,0.61685,2,Health Care,Major Pharmaceuticals
+NVR,32.22338,23.01686,1.0111,1,Capital Goods,Homebuilding
+NTCT,1.18337,0.84484,1.04112,2,Technology,EDP Services
+NSIT,13.56906,7.84084,1.81068,0,Consumer Services,Catalog/Specialty Distribution
+NWE,7.95492,2.91986,0.36691,2,Public Utilities,Power Generation
+NTRS,12.28986,6.77866,1.14213,2,Finance,Major Banks
+NWN,7.40113,2.10788,0.43035,2,Public Utilities,Oil/Gas Transmission
+NWPX,10.34949,8.85477,0.89372,2,Basic Industries,Steel/Iron Ore
+NSYS,10.94981,5.45165,1.25554,2,Capital Goods,Industrial Machinery/Components
+NTES,8.10506,6.62459,0.58679,2,Miscellaneous,Business Services
+NSSC,9.8303,8.71593,1.40074,0,Capital Goods,Telecommunications Equipment
+ODC,13.32403,10.33977,0.49782,2,Consumer Durables,Miscellaneous manufacturing industries
+OLED,12.61566,10.82603,1.43294,0,Capital Goods,Electrical Products
+OMC,37.71189,10.2227,0.87942,1,Technology,Advertising
+OMF,17.5142,2.86699,2.26932,0,Finance,Finance: Consumer Services
+OMI,6.97996,1.54455,0.28788,2,Health Care,Medical Specialities
+OEC,16.92469,2.82364,1.75704,0,Basic Industries,Major Chemicals
+OLLI,18.79489,14.29734,1.17869,1,Consumer Services,Department/Specialty Retail Stores
+OMAB,16.61501,11.46611,1.53224,0,Transportation,Aerospace
+OIIM,4.71397,4.53916,0.76697,2,Technology,Semiconductors
+OBCI,27.19276,23.96885,0.43201,1,Consumer Durables,Specialty Chemicals
+OFIX,7.13139,5.81638,1.0889,2,Health Care,Medical/Dental Instruments
+OGS,8.79812,3.76848,0.30954,2,Public Utilities,Oil/Gas Transmission
+ODFL,20.61963,17.12781,1.03636,1,Transportation,Trucking Freight/Courier Services
+OFLX,32.84829,31.2598,0.54813,1,Capital Goods,Industrial Specialties
+NXST,26.9209,4.36949,1.90726,0,Consumer Services,Broadcasting
+OESX,4.87935,3.76073,2.66091,0,Consumer Durables,Building Products
+ON,6.07649,2.92312,2.00114,0,Technology,Semiconductors
+OMCL,4.39322,3.03114,1.0064,2,Technology,Computer Manufacturing
+NYT,13.4654,9.57958,0.79597,2,Consumer Services,Newspapers/Magazines
+OKE,10.09187,3.01543,1.98576,0,Public Utilities,Oil & Gas Production
+OCN,1.71737,0.06993,1.69052,0,Finance,Finance: Consumer Services
+OTTR,12.12688,4.68718,0.31149,2,Public Utilities,Electric Utilities: Central
+OSIS,11.6191,6.96929,0.91349,2,Technology,Semiconductors
+OTEL,33.87762,6.25248,1.7617,1,Public Utilities,Telecommunications Equipment
+ORAN,8.41424,4.18562,0.2648,2,Public Utilities,Telecommunications Equipment
+OTEX,6.60208,3.41071,0.89481,2,Technology,EDP Services
+OPI,4.44231,1.85238,1.34432,0,Finance,Real Estate
+OPY,11.26055,7.21317,1.15427,2,Finance,Investment Bankers/Brokers/Service
+ONTO,0.2424,0.22704,1.27766,0,Capital Goods,Industrial Machinery/Components
+ORA,5.48588,3.17948,0.467,2,Public Utilities,Electric Utilities: Central
+OSPN,0.52641,0.4528,0.67808,2,Technology,EDP Services
+ORN,11.41988,7.02695,1.22009,2,Basic Industries,Military/Government/Technical
+OSG,11.88875,4.12258,0.3868,2,Transportation,Marine Transportation
+OSK,11.90716,8.1016,1.64604,0,Capital Goods,Auto Manufacturing
+OSN,9.26441,10.03732,0.89079,2,Basic Industries,Steel/Iron Ore
+PATK,15.75335,6.16303,2.36487,0,Capital Goods,Auto Parts:O.E.M.
+PCAR,14.13504,6.08108,1.02053,2,Capital Goods,Auto Manufacturing
+PCRX,27.09797,13.66685,1.222,1,Health Care,Major Pharmaceuticals
+PCYG,3.22061,4.44441,1.55256,0,Technology,EDP Services
+PCYO,8.61157,8.4928,0.56942,2,Public Utilities,Water Supply
+PAC,14.90407,7.73593,1.3835,0,Transportation,Aerospace
+PAG,15.59475,5.17181,1.62445,0,Consumer Durables,Automotive Aftermarket
+PAM,6.57905,2.72706,0.50547,2,Public Utilities,Electric Utilities: Central
+PDEX,33.45513,24.70702,1.32553,1,Health Care,Medical/Dental Instruments
+PAHC,21.71804,6.76185,0.46989,2,Health Care,Major Pharmaceuticals
+PCTI,4.68285,4.44841,0.28061,2,Technology,Radio And Television Broadcasting And Communications Equipment
+PBH,13.6678,4.93947,0.75554,2,Health Care,Major Pharmaceuticals
+PCTY,18.09878,13.29705,1.38154,1,Technology,Computer Software: Prepackaged Software
+PAYC,29.70224,21.48552,1.51858,1,Technology,Computer Software: Prepackaged Software
+PAAS,1.24442,0.92347,1.22578,0,Basic Industries,Precious Metals
+PDM,20.65589,10.2547,0.99337,2,Consumer Services,Building operators
+PAYX,39.46847,26.37321,0.91089,1,Consumer Services,Diversified Commercial Services
+PICO,2.59659,2.57231,1.02957,2,Finance,Real Estate
+PFE,12.83373,6.04669,0.7034,2,Health Care,Major Pharmaceuticals
+PETS,22.9199,22.67829,0.68942,1,Health Care,Medical/Nursing Services
+PESI,13.13138,8.67634,1.15426,2,Basic Industries,Environmental Services
+PINC,0.72349,16.05544,0.25878,2,Consumer Services,Other Consumer Services
+PHM,22.63366,15.39575,1.43577,1,Capital Goods,Homebuilding
+PII,2.54328,0.9069,2.10159,0,Capital Goods,Industrial Specialties
+PGTI,8.56223,4.23546,1.46701,0,Capital Goods,Building Products
+PGTI,8.56223,4.23546,1.46701,0,Capital Goods,Building Products
+PERI,4.31507,3.44816,0.87393,2,Technology,EDP Services
+PFSI,54.64904,10.12461,1.20763,1,Finance,Finance: Consumer Services
+PEG,12.42482,4.38987,0.51107,2,Public Utilities,Power Generation
+PG,29.07366,15.95641,0.365,1,Basic Industries,Package Goods/Cosmetics
+PH,18.83243,7.46922,1.755,0,Capital Goods,Metal Fabrications
+PEP,51.15167,11.55614,0.57989,1,Consumer Non-Durables,Beverages (Production/Distribution)
+PNM,11.36986,3.35288,0.50122,2,Public Utilities,Electric Utilities: Central
+PNR,18.38412,10.7993,1.21573,2,Technology,Industrial Machinery/Components
+PNW,8.94939,3.02113,0.25258,2,Public Utilities,Electric Utilities: Central
+PRDO,27.02771,23.73101,1.74922,1,Consumer Services,Other Consumer Services
+POWL,6.74699,6.47913,1.27528,0,Consumer Durables,Electrical Products
+POR,6.35782,2.10459,0.26928,2,Public Utilities,Electric Utilities: Central
+POWI,30.06248,28.95498,0.97587,1,Technology,Semiconductors
+PLAB,4.77074,5.35876,0.89612,2,Technology,Semiconductors
+PPC,7.8789,3.42485,1.03482,2,Consumer Non-Durables,Meat/Poultry/Fish
+PPG,20.44141,8.13328,1.13096,2,Basic Industries,Paints/Coatings
+PPL,12.06816,3.70909,0.74618,2,Public Utilities,Electric Utilities: Central
+POST,0.02768,0.25968,0.72918,2,Consumer Non-Durables,Packaged Foods
+PRAA,12.58886,4.10087,1.5643,0,Finance,Finance: Consumer Services
+PRAH,19.41779,8.06943,1.22494,2,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+PODD,7.74389,2.14591,0.76546,2,Health Care,Medical/Dental Instruments
+PIPR,4.91258,3.75281,1.37897,0,Finance,Investment Bankers/Brokers/Service
+PKE,5.71251,5.08416,0.99321,2,Capital Goods,Military/Government/Technical
+PKG,15.06386,7.27784,1.09076,2,Consumer Durables,Containers/Packaging
+PKI,13.88278,7.54848,1.17452,2,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+PKX,2.11926,1.80206,1.01152,2,Basic Industries,Steel/Iron Ore
+PLUS,14.38359,13.27071,1.28058,2,Technology,Retail: Computer Software & Peripheral Equipment
+PLPC,12.14937,9.40759,1.04264,2,Basic Industries,Water Supply
+PLXS,12.62892,9.6113,1.1877,2,Technology,Electrical Products
+PRGS,16.35131,8.57861,1.0962,2,Technology,Computer Software: Prepackaged Software
+PRPL,7.79534,0.1477,1.33296,0,Consumer Durables,Home Furnishings
+PRFT,8.88003,5.61352,1.49159,0,Technology,EDP Services
+PRIM,14.97292,8.41242,1.30272,2,Basic Industries,Water Supply
+PSO,6.26108,4.23095,0.41172,2,Consumer Services,Books
+PSMT,9.48603,7.92441,0.9327,2,Consumer Services,Department/Specialty Retail Stores
+PRLB,9.49208,8.86198,1.94795,0,Capital Goods,Metal Fabrications
+PRSC,6.34077,16.61956,0.71982,2,Consumer Services,Transportation Services
+PVL,9.75963,9.75963,1.91745,0,Energy,Oil & Gas Production
+QNST,12.62558,11.16046,1.0957,2,Miscellaneous,Business Services
+QGEN,7.39339,4.16487,0.38302,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+QGEN,7.39339,4.16487,0.38302,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PSXP,43.43022,14.51883,1.08284,1,Energy,Natural Gas Distribution
+PWR,9.76974,6.32912,1.26022,2,Capital Goods,Engineering & Construction
+PXD,1.46321,1.05753,1.93459,0,Energy,Oil & Gas Production
+QLYS,23.22802,20.09071,0.7665,1,Technology,Computer Software: Prepackaged Software
+QADA,2.78328,2.16607,1.33444,0,Technology,Computer Software: Prepackaged Software
+QADB,2.78328,2.16607,1.33444,0,Technology,Computer Software: Prepackaged Software
+QRTEB,16.51867,5.62113,1.87197,0,Consumer Services,Catalog/Specialty Distribution
+QRTEA,16.51867,5.62113,1.87197,0,Consumer Services,Catalog/Specialty Distribution
+QRVO,10.27562,7.58678,1.53717,0,Technology,Semiconductors
+PTC,9.90021,5.52807,1.32243,0,Technology,Computer Software: Prepackaged Software
+PTR,1.51884,1.91214,0.84601,2,Energy,Oil & Gas Production
+QIWI,29.70216,27.43914,1.01253,1,Miscellaneous,Business Services
+PYPL,17.97174,11.59945,1.10332,2,Miscellaneous,Business Services
+PTNR,1.21756,0.53206,0.85979,2,Public Utilities,Telecommunications Equipment
+QRHC,1.15669,1.36661,1.3612,0,Technology,Diversified Commercial Services
+RAVN,6.79637,6.05121,1.42341,0,Capital Goods,Specialty Chemicals
+RAND,6.68589,5.21433,0.27175,2,Finance,Finance: Consumer Services
+RBA,20.03785,10.38622,1.17526,2,Miscellaneous,Business Services
+RBC,7.43564,4.81022,1.40709,0,Consumer Durables,Metal Fabrications
+RCII,39.48476,22.35939,1.68384,1,Technology,Diversified Commercial Services
+RCI,16.37278,5.13523,0.52309,2,Consumer Services,Television Services
+RCM,34.92885,5.57093,0.75067,1,Consumer Services,Other Consumer Services
+RDY,12.12056,11.06057,0.39111,2,Health Care,Major Pharmaceuticals
+RCKY,9.7956,9.27483,0.63329,2,Consumer Non-Durables,Shoe Manufacturing
+REGN,30.59637,24.35176,0.31575,1,Health Care,Major Pharmaceuticals
+RDWR,3.67726,3.01557,0.96966,2,Miscellaneous,Business Services
+RADA,5.11492,4.73646,1.10494,2,Technology,Electronic Components
+RELX,59.47712,13.02078,0.70127,1,Consumer Services,Publishing
+RJF,11.93136,8.05356,1.34265,0,Finance,Investment Bankers/Brokers/Service
+RILY,14.0295,4.14506,1.23253,2,Miscellaneous,Business Services
+RM,9.86241,2.81125,1.46564,0,Finance,Finance: Consumer Services
+ROCK,12.46615,11.09306,1.24152,2,Capital Goods,Steel/Iron Ore
+RGLD,7.187,6.19339,0.69374,2,Basic Industries,Precious Metals
+RMD,28.35205,17.81215,0.31575,1,Health Care,Medical/Dental Instruments
+RFIL,1.73621,1.65211,1.04029,2,Capital Goods,Electrical Products
+RMR,9.77842,19.14472,1.41548,1,Consumer Services,Professional Services
+RMAX,2.49051,2.75873,1.51914,0,Finance,Real Estate
+ROG,0.63366,0.5216,1.83472,0,Basic Industries,Major Chemicals
+RGEN,4.03984,3.17017,0.95361,2,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+RGP,8.56676,6.0399,1.04658,2,Miscellaneous,Business Services
+RGR,25.78192,25.58192,0.30552,1,Capital Goods,Ordnance And Accessories
+RHI,28.16321,22.83067,1.67116,1,Technology,Professional Services
+RIO,18.26651,10.56573,0.74673,2,Basic Industries,Precious Metals
+RSG,12.49312,5.08535,0.65467,2,Public Utilities,Environmental Services
+RP,3.90264,2.55398,1.14712,2,Technology,Computer Software: Prepackaged Software
+RS,8.01131,5.54491,1.02269,2,Basic Industries,Metal Fabrications
+SAMG,15.85404,19.75676,0.89737,1,Finance,Investment Managers
+ROLL,9.71227,8.87784,1.42052,0,Capital Goods,Metal Fabrications
+ROST,9.64244,3.9974,0.9202,2,Consumer Services,Clothing/Shoe/Accessory Stores
+SANM,8.53864,6.24757,1.16341,2,Technology,Electrical Products
+ROL,28.52657,18.44227,0.43803,1,Finance,Diversified Commercial Services
+ROP,16.7092,8.31777,1.03876,2,Capital Goods,Industrial Machinery/Components
+SAM,17.90988,15.30551,0.77288,1,Consumer Non-Durables,Beverages (Production/Distribution)
+SAIA,13.97246,9.68511,1.22892,2,Transportation,Trucking Freight/Courier Services
+RUSHB,8.25741,5.12712,1.35248,0,Consumer Durables,Automotive Aftermarket
+RUSHA,8.25741,5.12712,1.35248,0,Consumer Durables,Automotive Aftermarket
+SAP,16.36759,10.94201,1.01619,2,Technology,Computer Software: Prepackaged Software
+RXN,11.43615,5.27473,1.45566,0,Technology,Industrial Machinery/Components
+RPM,26.91764,8.7248,1.01759,1,Basic Industries,Paints/Coatings
+SAIC,14.48127,5.13076,1.01786,2,Technology,EDP Services
+SCS,14.78256,7.77547,1.59705,0,Consumer Durables,Office Equipment/Supplies/Services
+SCVL,3.985,2.37016,1.40078,0,Consumer Services,Clothing/Shoe/Accessory Stores
+SBLK,0.35381,0.1833,1.43477,0,Transportation,Marine Transportation
+SEM,23.02209,5.31086,1.44805,0,Health Care,Hospital/Nursing Management
+SC,8.60951,1.13273,1.17743,2,Finance,Finance: Consumer Services
+SF,12.59879,2.06935,1.58607,0,Finance,Investment Bankers/Brokers/Service
+SFM,36.65371,10.98206,0.27113,1,Consumer Services,Food Chains
+SENEA,19.89755,11.66038,0.75018,2,Consumer Non-Durables,Packaged Foods
+SENEB,19.89755,11.66038,0.75018,2,Consumer Non-Durables,Packaged Foods
+SEDG,19.7499,12.01382,0.86155,2,Technology,Semiconductors
+SCHW,12.52101,8.87738,1.15548,2,Finance,Investment Bankers/Brokers/Service
+SCCO,18.5817,8.55044,1.1502,2,Basic Industries,Precious Metals
+SEIC,26.14972,24.5283,1.18743,1,Finance,Investment Bankers/Brokers/Service
+SBS,5.51183,2.81895,0.94879,2,Public Utilities,Water Supply
+SCI,26.26162,3.5668,0.71067,2,Consumer Services,Other Consumer Services
+SCL,13.21779,9.57659,0.75295,2,Basic Industries,Package Goods/Cosmetics
+SKY,10.94034,9.00137,2.64844,0,Basic Industries,Homebuilding
+SKX,4.38349,3.89235,1.24372,0,Consumer Non-Durables,Shoe Manufacturing
+SHYF,21.95137,14.04854,1.63231,1,Capital Goods,Auto Manufacturing
+SLAB,1.18005,0.80666,1.075,2,Technology,Semiconductors
+SLGN,25.91825,6.54169,0.71613,2,Consumer Durables,Containers/Packaging
+SKYW,5.13614,1.91528,2.14121,0,Transportation,Air Freight/Delivery Services
+SIMO,18.08437,17.21454,1.01443,1,Technology,Semiconductors
+SITE,19.33041,8.57448,1.21134,2,Consumer Non-Durables,Farming/Seeds/Milling
+SILC,4.55528,4.4103,0.83546,2,Technology,Computer Communications Equipment
+SGC,18.51347,11.38079,0.80477,2,Consumer Non-Durables,Apparel
+SGU,14.447,10.61497,0.36613,2,Consumer Services,Other Specialty Stores
+SHLX,21.69544,26.84024,1.63163,1,Energy,Natural Gas Distribution
+SIGA,29.35498,20.028,0.63421,1,Health Care,Major Pharmaceuticals
+SHEN,2.84111,1.16937,0.36261,2,Public Utilities,Telecommunications Equipment
+SHW,45.49175,11.5379,1.03863,1,Consumer Services,RETAIL: Building Materials
+SID,16.04073,3.81287,1.91015,0,Capital Goods,Steel/Iron Ore
+SGRP,12.0569,25.93239,1.28152,1,Miscellaneous,Business Services
+SHOP,4.38636,3.91989,1.62489,0,Technology,Computer Software: Prepackaged Software
+SJI,8.39007,2.46931,0.86974,2,Public Utilities,Oil/Gas Transmission
+SJM,10.56212,6.13905,0.26142,2,Consumer Non-Durables,Packaged Foods
+SJR,11.19798,4.96287,0.62636,2,Consumer Services,Television Services
+SGEN,23.40011,22.16226,1.09345,1,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SJW,4.73243,1.77229,0.30431,2,Public Utilities,Water Supply
+SKM,4.64834,2.89904,0.91417,2,Public Utilities,Telecommunications Equipment
+SNDR,8.4107,5.89526,1.05412,2,Transportation,Trucking Freight/Courier Services
+SMSI,14.16925,12.59853,0.90511,2,Technology,Computer Software: Prepackaged Software
+SMG,54.49537,16.02701,1.12805,1,Basic Industries,Agricultural Chemicals
+SMP,13.55457,11.37339,0.52969,2,Capital Goods,Auto Parts:O.E.M.
+SNA,17.00757,12.51017,1.29503,2,Capital Goods,Industrial Machinery/Components
+SND,15.95141,12.01149,2.11806,0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+SNE,20.93294,5.98246,0.94363,2,Consumer Non-Durables,Consumer Electronics/Appliances
+SNN,7.88943,5.04679,0.6705,2,Health Care,Industrial Specialties
+SNP,5.18877,4.54901,1.02484,2,Energy,Integrated oil Companies
+SNX,12.59681,6.76873,1.61264,0,Technology,Retail: Computer Software & Peripheral Equipment
+SO,11.36877,3.00415,0.37306,2,Public Utilities,Electric Utilities: Central
+SMCI,8.27328,6.99652,1.26347,2,Technology,Computer Manufacturing
+SNEX,18.54999,5.70078,1.26723,2,Finance,Investment Bankers/Brokers/Service
+SMTC,5.70154,4.08505,1.66719,0,Technology,Semiconductors
+SON,14.22121,6.55455,0.83735,2,Consumer Durables,Containers/Packaging
+SMTX,9.40432,4.49144,1.56171,0,Technology,Electrical Products
+SNPS,14.71573,12.4049,1.09729,2,Technology,Computer Software: Prepackaged Software
+SMID,12.69686,8.18288,0.76765,2,Capital Goods,Building Materials
+SMPL,3.35198,2.28999,0.88187,2,Consumer Non-Durables,Packaged Foods
+SRLP,42.30134,6.86363,0.95815,1,Energy,Oil Refining/Marketing
+SRDX,0.88575,0.77575,0.98035,2,Health Care,Medical/Dental Instruments
+SPXC,20.66258,6.23135,1.40595,0,Technology,Industrial Machinery/Components
+SSNC,11.1707,4.10225,1.56695,0,Technology,Computer Software: Prepackaged Software
+SPSC,11.1561,10.53869,0.89848,2,Technology,Computer Software: Prepackaged Software
+SPKE,28.273,22.57789,0.65265,1,Public Utilities,Power Generation
+SQ,18.72144,9.33408,2.7102,0,Technology,Computer Software: Prepackaged Software
+SR,3.21743,1.36986,0.19631,2,Public Utilities,Oil/Gas Transmission
+ST,3.42468,1.34777,1.55321,0,Capital Goods,Industrial Machinery/Components
+STAA,5.34057,4.93113,1.1175,2,Health Care,Ophthalmic Goods
+SPRT,1.35953,1.33288,0.48406,2,Technology,EDP Services
+SPH,15.4559,3.38961,0.71435,2,Consumer Services,Other Specialty Stores
+SQM,7.94182,4.38217,0.92768,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+SPTN,9.56704,4.13627,0.85894,2,Consumer Non-Durables,Food Distributors
+SSRM,2.88462,2.12841,0.94461,2,Basic Industries,Precious Metals
+SPNS,13.75351,8.52091,1.36977,0,Technology,Computer Software: Prepackaged Software
+SRE,10.29553,2.40205,0.63205,2,Public Utilities,Natural Gas Distribution
+SPWH,44.50925,15.4223,0.97891,1,Consumer Services,Other Specialty Stores
+SSD,20.17895,18.47589,1.26142,1,Capital Goods,Industrial Machinery/Components
+SSP,5.5039,1.54252,1.93724,0,Consumer Services,Broadcasting
+SSTK,14.22236,12.36782,1.08712,2,Technology,EDP Services
+SSTI,9.4132,9.12668,1.506,0,Technology,Computer Software: Prepackaged Software
+STE,12.28346,8.62092,1.05946,2,Health Care,Industrial Specialties
+STN,9.47352,5.18614,0.96758,2,Consumer Services,Military/Government/Technical
+STM,12.74661,9.14291,1.57642,0,Technology,Semiconductors
+STX,57.19855,16.55517,1.23415,1,Technology,Electronic Components
+STZ,9.47736,4.5643,1.10413,2,Consumer Non-Durables,Beverages (Production/Distribution)
+SUM,9.47665,3.7129,1.38215,0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+SUN,19.18397,4.63034,1.82815,0,Energy,Integrated oil Companies
+SWI,17.40566,16.21383,1.24751,1,Technology,Computer Software: Prepackaged Software
+SWK,11.61414,5.56052,1.48252,0,Capital Goods,Industrial Machinery/Components
+SYKE,6.39235,4.97694,0.89625,2,Technology,EDP Services
+SWM,14.44361,6.01388,1.07792,2,Basic Industries,Paper
+SWX,8.74481,3.12458,0.12121,2,Public Utilities,Oil & Gas Production
+STRA,6.91414,6.26623,0.56232,2,Consumer Services,Other Consumer Services
+STRL,26.82361,12.2449,1.37007,1,Basic Industries,Military/Government/Technical
+SXC,1.46073,0.75895,1.20824,0,Basic Industries,Steel/Iron Ore
+SXI,8.59157,4.96783,1.37587,0,Technology,Industrial Machinery/Components
+SYNH,6.437,3.25367,1.84831,0,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+SXT,7.50963,4.36108,0.96897,2,Basic Industries,Major Chemicals
+SUMR,19.54919,2.84704,1.74322,0,Consumer Durables,Miscellaneous manufacturing industries
+SYK,13.88087,6.97725,0.8856,2,Health Care,Medical/Dental Instruments
+STKS,55.50297,8.05853,2.41999,1,Consumer Services,Restaurants
+SYNA,14.99833,8.46262,1.14398,2,Technology,Semiconductors
+STLD,11.732,6.91368,1.40554,0,Basic Industries,Steel/Iron Ore
+SUPN,20.42608,11.93122,1.379,1,Health Care,Major Pharmaceuticals
+SYPR,13.86035,5.61089,1.68806,0,Capital Goods,Industrial Machinery/Components
+STMP,19.92638,17.74959,0.37871,1,Miscellaneous,Business Services
+SWKH,4.03299,3.75819,0.16416,2,Finance,Diversified Financial Services
+SWKS,19.67055,17.86517,1.22042,1,Technology,Semiconductors
+STNG,8.88694,3.83878,1.17265,2,Transportation,Marine Transportation
+TER,41.01567,28.68912,1.35031,1,Capital Goods,Electrical Products
+TEX,1.46597,0.56343,1.56555,0,Capital Goods,Construction/Ag Equipment/Trucks
+TAYD,7.45474,7.45474,0.95915,2,Capital Goods,Industrial Machinery/Components
+T,6.11263,2.66946,0.67309,2,Public Utilities,Telecommunications Equipment
+TA,5.76995,1.25827,2.06904,0,Consumer Durables,Automotive Aftermarket
+TAIT,3.88477,3.86047,1.33181,0,Technology,Electronic Components
+TAP,4.38236,2.44003,1.15109,2,Consumer Non-Durables,Beverages (Production/Distribution)
+TECH,18.98872,13.12192,1.12696,1,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+SYX,35.38922,24.57891,0.49663,1,Capital Goods,Industrial Machinery/Components
+TCP,42.15385,12.04106,0.96746,1,Public Utilities,Natural Gas Distribution
+TCS,6.73298,2.05103,1.63494,0,Consumer Services,Home Furnishings
+TCX,16.3059,5.72747,0.75077,2,Technology,EDP Services
+TDC,29.49438,8.64553,1.2036,1,Technology,Computer Software: Prepackaged Software
+TDS,4.71958,2.79379,1.20498,0,Public Utilities,Telecommunications Equipment
+TDY,13.77524,9.87209,1.08782,2,Capital Goods,Industrial Machinery/Components
+TEF,1.34828,0.95613,0.88489,2,Public Utilities,Telecommunications Equipment
+TEO,2.11481,1.44237,0.54341,2,Public Utilities,Telecommunications Equipment
+TNAV,6.45921,2.39245,0.43814,2,Capital Goods,Industrial Machinery/Components
+TNC,11.52691,5.31574,1.19362,2,Technology,Industrial Machinery/Components
+TNK,21.52712,12.32126,0.34562,2,Consumer Services,Marine Transportation
+TMHC,6.90488,3.62309,1.82933,0,Capital Goods,Homebuilding
+TNP,1.75762,2.2201,0.63493,2,Transportation,Marine Transportation
+TGLS,9.88322,3.85778,1.64163,0,Consumer Durables,Electronic Components
+TFX,12.05437,6.18644,1.12798,2,Health Care,Medical/Dental Instruments
+TOL,9.35333,5.19512,1.67701,0,Capital Goods,Homebuilding
+TGH,4.66613,1.21234,1.60091,0,Technology,Diversified Commercial Services
+TGP,5.51162,2.87621,1.44058,0,Consumer Services,Marine Transportation
+TGT,30.7352,13.07733,0.98037,1,Consumer Services,Department/Specialty Retail Stores
+TGNA,19.41623,4.93163,1.27166,2,Consumer Services,Broadcasting
+TGS,22.17376,12.06845,0.42515,2,Public Utilities,Natural Gas Distribution
+THO,10.1255,5.25122,2.44092,0,Consumer Non-Durables,Homebuilding
+TIF,8.98845,5.23051,0.7623,2,Consumer Services,Consumer Specialties
+TM,6.96915,4.00679,0.57617,2,Capital Goods,Auto Manufacturing
+THRM,7.50496,5.57019,1.48207,0,Capital Goods,Auto Parts:O.E.M.
+TNET,54.32999,25.32937,1.55421,1,Miscellaneous,Business Services
+TJX,13.49743,4.12512,0.92393,2,Consumer Services,Clothing/Shoe/Accessory Stores
+TKC,19.59715,10.23951,0.61093,2,Public Utilities,Telecommunications Equipment
+TLYS,0.3294,0.13634,1.96244,0,Consumer Services,Clothing/Shoe/Accessory Stores
+TKR,18.28302,9.00099,1.78657,0,Capital Goods,Metal Fabrications
+TLK,17.68429,18.16558,0.68611,1,Public Utilities,Telecommunications Equipment
+TIMB,7.76942,5.40033,1.03088,2,Public Utilities,Telecommunications Equipment
+TMUS,5.9507,2.23313,0.52956,2,Public Utilities,Telecommunications Equipment
+TMO,15.94992,8.97551,0.86047,2,Capital Goods,Industrial Machinery/Components
+TMX,29.7999,10.96996,0.93246,1,Consumer Services,Other Consumer Services
+TTEK,17.15756,11.74004,0.87835,2,Consumer Services,Military/Government/Technical
+TSCO,44.97115,17.00581,0.97537,1,Consumer Services,RETAIL: Building Materials
+TSLA,4.75737,2.67807,2.15049,0,Capital Goods,Auto Manufacturing
+TTEC,24.16685,12.43274,0.78045,1,Technology,Professional Services
+TSEM,5.26091,4.28958,1.38236,0,Technology,Semiconductors
+TPB,7.55432,1.92347,0.55771,2,Consumer Non-Durables,Tobacco
+TTGT,11.5119,8.65911,0.98083,2,Miscellaneous,Business Services
+TPH,13.22975,8.02461,1.62193,0,Capital Goods,Homebuilding
+TRTN,12.38996,3.01685,1.88789,0,Technology,Diversified Commercial Services
+TR,7.71385,6.47397,0.0026,2,Consumer Non-Durables,Specialty Foods
+TTWO,18.65771,15.71414,0.60315,1,Technology,Computer Software: Prepackaged Software
+TT,14.75563,6.96478,1.03624,2,Capital Goods,Auto Parts:O.E.M.
+TRC,2.14211,1.80498,0.66648,2,Finance,Real Estate
+TRI,7.61894,7.70161,0.48941,2,Consumer Services,Publishing
+TRQ,3.89273,2.65877,2.05773,0,Basic Industries,Precious Metals
+TRP,16.20803,5.56596,0.75035,2,Public Utilities,Natural Gas Distribution
+TREX,34.68883,30.75523,1.4761,1,Basic Industries,Forest Products
+TRU,14.94711,5.27975,1.22068,2,Finance,Finance: Consumer Services
+TRNO,5.22472,3.99341,0.56317,2,Finance,Real Estate
+TSN,14.4854,7.43752,0.73988,2,Consumer Non-Durables,Meat/Poultry/Fish
+TSM,29.11218,26.6692,0.98036,1,Technology,Semiconductors
+TRMD,18.91323,12.29368,1.59333,0,Transportation,Marine Transportation
+TRMB,15.93339,9.61788,1.49996,0,Capital Goods,Industrial Machinery/Components
+TROW,29.72302,28.89027,1.16529,1,Finance,Investment Bankers/Brokers/Service
+TTC,31.15993,16.56461,0.74364,1,Capital Goods,Tools/Hardware
+TTD,20.66638,15.388,2.63582,0,Technology,"Computer Software: Programming, Data Processing"
+TRNS,10.23215,6.75612,0.68535,2,Capital Goods,Electrical Products
+UHS,15.46546,8.86027,1.18104,2,Health Care,Hospital/Nursing Management
+ULBI,4.30673,4.01053,1.59369,0,Miscellaneous,Industrial Machinery/Components
+TXN,57.21548,31.09945,1.07726,1,Technology,Semiconductors
+TXT,4.86018,2.34827,1.75869,0,Capital Goods,Aerospace
+ULTA,15.62271,6.97936,1.69583,0,Consumer Services,Other Specialty Stores
+TYL,10.97309,10.60793,0.67973,2,Technology,Computer Software: Prepackaged Software
+UFPI,16.49437,13.71331,1.44581,1,Basic Industries,Forest Products
+UFPT,9.12137,8.23702,0.91971,2,Health Care,Medical/Dental Instruments
+TU,11.48973,4.09746,0.76254,2,Public Utilities,Telecommunications Equipment
+TX,3.70157,2.89764,1.31517,0,Basic Industries,Steel/Iron Ore
+UEIC,11.9816,11.10462,1.2842,2,Consumer Non-Durables,Consumer Electronics/Appliances
+UE,7.90575,2.99581,1.6791,0,Finance,Real Estate
+ULH,19.10312,5.70071,1.61289,0,Transportation,Trucking Freight/Courier Services
+UG,35.26361,34.56759,0.01805,1,Consumer Non-Durables,Package Goods/Cosmetics
+UL,41.59582,14.2878,0.45666,1,Basic Industries,Package Goods/Cosmetics
+TXRH,6.05401,3.58401,0.99873,2,Consumer Services,Restaurants
+TWNK,4.18698,2.29443,0.70151,2,Consumer Non-Durables,Packaged Foods
+UCTT,9.51774,5.78086,2.01089,0,Technology,Semiconductors
+UMC,7.6211,4.16102,0.9327,2,Technology,Semiconductors
+UHAL,11.31598,4.30748,0.86162,2,Consumer Services,Rental/Leasing Companies
+UGI,13.39123,4.52169,0.95267,2,Public Utilities,Natural Gas Distribution
+UGP,2.10154,0.85514,1.33245,0,Public Utilities,Oil/Gas Transmission
+VAR,14.28794,11.4338,1.07083,2,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+USPH,12.03747,13.06655,1.42345,0,Health Care,Medical/Nursing Services
+UNVR,1.80206,0.60714,1.99033,0,Consumer Durables,Specialty Chemicals
+VCEL,0.13704,0.11214,3.06169,0,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+VALE,8.37855,3.39342,1.19143,2,Basic Industries,Precious Metals
+URI,23.83818,5.6848,2.27271,0,Technology,Diversified Commercial Services
+UTMD,11.86964,11.26106,0.28649,2,Health Care,Medical/Dental Instruments
+V,34.71647,17.30696,0.95986,1,Miscellaneous,Business Services
+VEDL,8.45863,7.8132,1.8411,0,Capital Goods,Metal Fabrications
+USM,5.63905,3.08022,0.70931,2,Public Utilities,Telecommunications Equipment
+VEC,11.5744,7.66672,1.61351,0,Consumer Services,Diversified Commercial Services
+VEEV,19.31644,18.81805,0.85442,1,Technology,Computer Software: Prepackaged Software
+UTI,1.88714,3.24195,1.19098,0,Consumer Services,Other Consumer Services
+UTL,7.99574,2.40867,0.39148,2,Public Utilities,Power Generation
+USCR,8.6349,2.72673,1.33586,0,Capital Goods,Building Materials
+USLM,10.83527,9.92511,0.66685,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+UNF,8.02812,7.05958,1.00723,2,Consumer Services,Other Consumer Services
+UTHR,15.62286,12.19995,0.48302,2,Health Care,Major Pharmaceuticals
+UVV,4.43684,3.453,0.65118,2,Consumer Services,Farming/Seeds/Milling
+UNP,30.50973,9.24104,1.12087,1,Transportation,Railroads
+USNA,32.92252,30.87443,0.99522,1,Consumer Durables,Specialty Chemicals
+VIAV,4.95246,2.31895,0.80861,2,Technology,Semiconductors
+VRA,1.52247,1.11496,1.79125,0,Consumer Non-Durables,Apparel
+VIRC,1.43054,0.68675,1.25978,0,Consumer Durables,Industrial Specialties
+VIACA,25.4692,8.93064,1.81022,0,Consumer Services,Broadcasting
+VNDA,4.60214,4.45639,0.5555,2,Health Care,Major Pharmaceuticals
+VIAC,25.4692,8.93064,1.81022,0,Consumer Services,Broadcasting
+VICR,2.97629,2.93241,0.83468,2,Capital Goods,Industrial Machinery/Components
+VMC,10.71743,5.98953,0.60221,2,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+VLGEA,7.44095,4.36545,0.03781,2,Consumer Services,Food Chains
+VMI,12.50484,6.50541,1.17862,2,Capital Goods,Metal Fabrications
+VMW,22.78516,9.31528,0.88923,2,Technology,Computer Software: Prepackaged Software
+VIVO,21.06084,14.05323,0.58365,1,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+VOD,4.33255,2.28825,0.94389,2,Public Utilities,Telecommunications Equipment
+VOC,13.04955,13.04955,1.89452,0,Energy,Oil & Gas Production
+VPG,5.94777,4.55931,1.45691,0,Capital Goods,Electrical Products
+VHI,13.00455,3.21314,1.93046,0,Basic Industries,Major Chemicals
+VIPS,21.2308,18.84438,0.82547,1,Consumer Services,Catalog/Specialty Distribution
+WCN,3.08148,1.654,0.53066,2,Public Utilities,Environmental Services
+VRTS,9.31201,2.89995,1.52108,0,Finance,Investment Managers
+VRTU,10.00205,4.61608,1.22954,2,Technology,EDP Services
+VRS,16.43664,10.37624,2.08825,0,Basic Industries,Paper
+VRTV,1.04928,0.33455,2.05085,0,Consumer Services,Paper
+WDR,11.75382,10.9811,1.34335,2,Finance,Investment Bankers/Brokers/Service
+VSH,5.79549,3.45316,1.40445,0,Capital Goods,Electrical Products
+VTOL,4.86782,2.72694,1.40142,0,Transportation,Transportation Services
+WEC,11.75317,3.77124,0.11645,2,Public Utilities,Power Generation
+VST,11.07416,3.96354,0.91762,2,Public Utilities,Electric Utilities: Central
+VRSK,29.8194,12.03542,0.77609,1,Technology,EDP Services
+WEN,18.03922,2.2471,0.99166,2,Consumer Services,Restaurants
+WEX,2.29203,0.14662,2.0973,0,Miscellaneous,Business Services
+VTRS,2.21896,1.05764,1.48921,0,Health Care,Major Pharmaceuticals
+VRTX,40.19897,34.89133,0.78553,1,Health Care,Major Pharmaceuticals
+WERN,13.98861,8.45195,0.80062,2,Transportation,Trucking Freight/Courier Services
+VRNT,1.32776,1.16092,0.87833,2,Technology,EDP Services
+WAB,4.68922,2.99845,1.70059,0,Capital Goods,Railroads
+VZ,29.53141,7.48457,0.40368,2,Public Utilities,Telecommunications Equipment
+VYGR,29.22316,15.30989,1.43433,1,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+WB,21.5749,13.64022,1.29854,1,Technology,"Computer Software: Programming, Data Processing"
+WD,18.91449,5.25491,1.30478,0,Finance,Finance: Consumer Services
+WBA,2.06573,0.75997,0.51801,2,Health Care,Medical/Nursing Services
+VRRM,2.12982,0.55316,1.54312,0,Consumer Services,Transportation Services
+WCC,4.35499,1.99403,2.46484,0,Consumer Non-Durables,Telecommunications Equipment
+WLK,4.89255,2.87949,1.5059,0,Basic Industries,Major Chemicals
+WMB,1.80356,0.04285,1.70201,0,Public Utilities,Natural Gas Distribution
+WLTW,10.80286,5.99973,0.79162,2,Finance,Specialty Insurers
+WMK,10.84636,8.42925,0.16299,2,Consumer Services,Food Chains
+WMS,25.01144,8.59353,1.88829,0,Capital Goods,Containers/Packaging
+WMT,25.79305,13.07469,0.43526,1,Consumer Services,Department/Specialty Retail Stores
+WNS,17.1479,12.59169,1.44414,0,Miscellaneous,Business Services
+WSTG,9.02086,8.78396,0.77214,2,Technology,Retail: Computer Software & Peripheral Equipment
+WLFC,4.02796,0.88875,1.22096,0,Consumer Durables,Industrial Specialties
+WGO,8.41857,5.29719,2.10593,0,Consumer Non-Durables,Homebuilding
+WPM,7.9627,6.97253,0.33368,2,Basic Industries,Precious Metals
+WHR,29.37959,9.57997,1.90745,1,Consumer Durables,Consumer Electronics/Appliances
+WIRE,7.89987,7.61005,1.07584,2,Capital Goods,Metal Fabrications
+WRLD,11.60751,5.18624,1.80225,0,Finance,Finance: Consumer Services
+WIT,17.09763,15.94716,0.61496,1,Technology,EDP Services
+WM,21.59254,6.53183,0.74341,2,Public Utilities,Environmental Services
+WILC,9.97866,9.92358,0.60939,2,Consumer Non-Durables,Food Distributors
+WSM,42.45047,19.46637,1.70189,1,Consumer Services,Home Furnishings
+WSO,16.27062,17.48388,0.72717,1,Consumer Durables,Industrial Machinery/Components
+WST,19.44176,14.84613,1.02631,1,Basic Industries,Specialty Chemicals
+WTS,11.88854,8.61586,0.87921,2,Capital Goods,Metal Fabrications
+YY,9.1601,8.38327,1.04842,2,Technology,EDP Services
+XOM,1.40479,0.80435,1.3317,0,Energy,Integrated oil Companies
+YNDX,9.94013,7.53236,1.44271,0,Technology,"Computer Software: Programming, Data Processing"
+YRD,7.45627,4.07693,1.33027,0,Finance,Finance: Consumer Services
+WVVIP,6.89599,5.01417,0.82194,2,Consumer Non-Durables,Beverages (Production/Distribution)
+XPO,3.11345,0.86188,2.25286,0,Consumer Services,Transportation Services
+WWE,55.53546,25.66924,1.50015,1,Consumer Services,Movies/Entertainment
+WWD,12.92648,7.11218,1.71221,0,Energy,Industrial Machinery/Components
+XYL,7.78724,3.39265,1.00661,2,Capital Goods,Fluid Controls
+WWW,4.15094,1.80677,1.66403,0,Consumer Non-Durables,Shoe Manufacturing
+ZBRA,26.15172,13.77507,1.70652,1,Technology,Industrial Machinery/Components
+XLNX,23.76977,13.59913,0.9855,1,Technology,Semiconductors
+YUMC,16.08991,11.3841,0.85474,2,Consumer Services,Restaurants
+XRX,7.04649,3.27364,1.86184,0,Technology,Computer peripheral equipment
+YORW,11.91424,4.45642,0.13576,2,Public Utilities,Water Supply
+WTRG,5.64926,2.21023,0.47424,2,Public Utilities,Water Supply
+WVVI,6.89599,5.01417,0.82194,2,Consumer Non-Durables,Beverages (Production/Distribution)
+XEL,10.97407,3.1248,0.23812,2,Public Utilities,Power Generation
+ZUMZ,14.03608,8.55451,1.66195,0,Consumer Services,Clothing/Shoe/Accessory Stores
+ZTO,12.6562,12.50511,0.27368,2,Transportation,Trucking Freight/Courier Services
+ZTS,52.96178,15.43175,0.67267,1,Health Care,Major Pharmaceuticals
+ZYXI,28.91287,26.22321,0.79581,1,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
